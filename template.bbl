@@ -1,0 +1,283 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\datalist[entry]{nyt/global//global/global}
+  \entry{dyslexiaCharAndSigns}{online}{}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{title}{Characteristics and Signs of Dyslexia}
+    \verb{url}
+    \verb https://www.fcps.edu/academics/academic-overview/special-education-in
+    \verb struction/high-incidence-disabilities-team-k-12-2
+    \endverb
+    \field{year}{2023}
+  \endentry
+
+  \entry{figma}{online}{}
+    \name{author}{1}{}{%
+      {{hash=F}{%
+         family={Figma},
+         familyi={F\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{F1}
+    \strng{fullhash}{F1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{F}
+    \field{sortinithash}{F}
+    \field{note}{Accessed: 2024-09-24}
+    \field{title}{Figma: The collaborative interface design tool}
+    \verb{url}
+    \verb https://www.figma.com
+    \endverb
+    \field{year}{n.d.}
+  \endentry
+
+  \entry{observer}{online}{}
+    \name{author}{1}{}{%
+      {{hash=GR}{%
+         family={Guru},
+         familyi={G\bibinitperiod},
+         given={Refactoring},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{GR1}
+    \strng{fullhash}{GR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \field{note}{Accessed: 2024-09-24}
+    \field{title}{Observer Design Pattern}
+    \verb{url}
+    \verb https://refactoring.guru/design-patterns/observer
+    \endverb
+    \field{year}{n.d.}
+  \endentry
+
+  \entry{singleton}{online}{}
+    \name{author}{1}{}{%
+      {{hash=GR}{%
+         family={Guru},
+         familyi={G\bibinitperiod},
+         given={Refactoring},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{GR1}
+    \strng{fullhash}{GR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \field{note}{Accessed: 2024-09-24}
+    \field{title}{Singleton Design Pattern}
+    \verb{url}
+    \verb https://refactoring.guru/design-patterns/singleton
+    \endverb
+    \field{year}{n.d.}
+  \endentry
+
+  \entry{gemlearningFastFor}{online}{}
+    \name{author}{1}{}{%
+      {{hash=LG}{%
+         family={Learning},
+         familyi={L\bibinitperiod},
+         given={Gemm},
+         giveni={G\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{LG1}
+    \strng{fullhash}{LG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{L}
+    \field{sortinithash}{L}
+    \field{title}{Fast ForWord Program}
+    \verb{url}
+    \verb https://www.gemmlearning.com/programs/fast-forword/
+    \endverb
+    \field{year}{2023}
+  \endentry
+
+  \entry{dyslexiaUnderstanding}{online}{}
+    \name{author}{1}{}{%
+      {{hash=MK}{%
+         family={Martinelli},
+         familyi={M\bibinitperiod},
+         given={Katherine},
+         giveni={K\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MK1}
+    \strng{fullhash}{MK1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{title}{Understanding Dyslexia}
+    \verb{url}
+    \verb https://childmind.org/article/understanding-dyslexia/
+    \endverb
+    \field{month}{10}
+    \field{year}{2023}
+  \endentry
+
+  \entry{gblProsCons}{online}{}
+    \name{author}{1}{}{%
+      {{hash=NJ}{%
+         family={Nisbet},
+         familyi={N\bibinitperiod},
+         given={Jordan},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{NJ1}
+    \strng{fullhash}{NJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{N}
+    \field{sortinithash}{N}
+    \field{title}{Game-Based Learning: Pros, Cons \& Implementation Tips for Educators}
+    \verb{url}
+    \verb https://www.prodigygame.com/main-en/blog/game-based-learning/
+    \endverb
+    \field{month}{07}
+    \field{year}{2023}
+  \endentry
+
+  \entry{dyslexiaClinic}{online}{}
+    \name{author}{1}{}{%
+      {{hash=SMC}{%
+         family={Staff},
+         familyi={S\bibinitperiod},
+         given={Mayo\bibnamedelima Clinic},
+         giveni={M\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SMC1}
+    \strng{fullhash}{SMC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{title}{Dyslexia}
+    \verb{url}
+    \verb https://www.mayoclinic.org/diseases-conditions/dyslexia/symptoms-caus
+    \verb es/syc-20353552
+    \endverb
+    \field{month}{08}
+    \field{year}{2022}
+  \endentry
+
+  \entry{unityDocMonoBehaviour}{online}{}
+    \name{author}{1}{}{%
+      {{hash=TU}{%
+         family={Technologies},
+         familyi={T\bibinitperiod},
+         given={Unity},
+         giveni={U\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{TU1}
+    \strng{fullhash}{TU1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{T}
+    \field{sortinithash}{T}
+    \field{title}{MonoBehaviour}
+    \verb{url}
+    \verb https://docs.unity3d.com/ScriptReference/MonoBehaviour.html
+    \endverb
+    \field{month}{12}
+    \field{year}{2023}
+  \endentry
+
+  \entry{unityDocScriptableObj}{online}{}
+    \name{author}{1}{}{%
+      {{hash=TU}{%
+         family={Technologies},
+         familyi={T\bibinitperiod},
+         given={Unity},
+         giveni={U\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{TU1}
+    \strng{fullhash}{TU1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{T}
+    \field{sortinithash}{T}
+    \field{title}{ScriptableObject}
+    \verb{url}
+    \verb https://docs.unity3d.com/Manual/EventFunctions.html
+    \endverb
+    \field{month}{12}
+    \field{year}{2023}
+  \endentry
+
+  \entry{unityDocEvent}{online}{}
+    \name{author}{1}{}{%
+      {{hash=TU}{%
+         family={Technologies},
+         familyi={T\bibinitperiod},
+         given={Unity},
+         giveni={U\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{TU1}
+    \strng{fullhash}{TU1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{T}
+    \field{sortinithash}{T}
+    \field{title}{Event Functions}
+    \verb{url}
+    \verb https://docs.unity3d.com/ScriptReference/MonoBehaviour.html
+    \endverb
+    \field{month}{07}
+    \field{year}{2024}
+  \endentry
+
+  \entry{dyslexiaStatistics}{online}{}
+    \name{author}{1}{}{%
+      {{hash=ZS}{%
+         family={Zauderer},
+         familyi={Z\bibinitperiod},
+         given={Steven},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{ZS1}
+    \strng{fullhash}{ZS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{Z}
+    \field{sortinithash}{Z}
+    \field{title}{33 Dyslexia Statistics \& Facts: How Many People Have Dyslexia?}
+    \verb{url}
+    \verb https://www.crossrivertherapy.com/research/dyslexia-statistics
+    \endverb
+    \field{month}{06}
+    \field{year}{2023}
+  \endentry
+\enddatalist
+\endinput
