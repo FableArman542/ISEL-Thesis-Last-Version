@@ -127,4 +127,7 @@
 \contentsline {subsection}{\numberline {5.2.2}Puzzle Game Results}{59}{subsection.5.2.2}%
 \contentsline {subsection}{\numberline {5.2.3}Hearts Game Results}{59}{subsection.5.2.3}%
 \contentsline {subsection}{\numberline {5.2.4}Discussion}{60}{subsection.5.2.4}%
-\contentsline {chapter}{Bibliography}{61}{section*.92}%
+\contentsline {chapter}{\chapternumberline {6}Conclusions}{61}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Summary of the work}{62}{section.6.1}%
+\contentsline {section}{\numberline {6.2}Conclusions and future work}{63}{section.6.2}%
+\contentsline {chapter}{Bibliography}{65}{section*.92}%
