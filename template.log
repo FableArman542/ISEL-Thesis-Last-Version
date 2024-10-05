@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.3.27)  30 SEP 2024 01:10
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.3.27)  30 SEP 2024 21:42
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1911,21 +1911,25 @@ Overfull \hbox (6.0pt too wide) in paragraph at lines 124--124
  []
 
 (./Chapters/abstract-en.tex
+Underfull \hbox (badness 10000) in paragraph at lines 124--9
 
-Package microtype Warning: I cannot find a spacing list for font
-(microtype)                `TS1/cmr/m/n/10.95' (context: `nonfrench'). Switching off
-(microtype)                spacing for this font on input line 16.
+ []
 
 ) [9
 
-{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}] [10
+] [10
 
 ]
 Overfull \hbox (6.0pt too wide) in paragraph at lines 124--124
 [][]  
  []
 
-(./Chapters/abstract-pt.tex) [11
+(./Chapters/abstract-pt.tex
+Underfull \hbox (badness 10000) in paragraph at lines 124--9
+
+ []
+
+) [11
 
 ] [12
 
@@ -1962,7 +1966,7 @@ Package microtype Warning: I cannot find a spacing list for font
 
 
 
-] [7]) [8]
+{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}] [7]) [8]
 \openout2 = `Chapters/StateOfArt/LPD.aux'.
 
  (./Chapters/StateOfArt/LPD.tex [9
@@ -2013,7 +2017,7 @@ Overfull \hbox (5.84523pt too wide) in paragraph at lines 19--20
 \openout2 = `Chapters/sections/games_for_disabilities.aux'.
 
  (./Chapters/sections/games_for_disabilities.tex
-<Chapters/related_work_img/FastForWord_Cosmic_Reader.jpg, id=381, 702.625pt x 526.96875pt>
+<Chapters/related_work_img/FastForWord_Cosmic_Reader.jpg, id=379, 702.625pt x 526.96875pt>
 File: Chapters/related_work_img/FastForWord_Cosmic_Reader.jpg Graphic file (type jpg)
 <use Chapters/related_work_img/FastForWord_Cosmic_Reader.jpg>
 Package pdftex.def Info: Chapters/related_work_img/FastForWord_Cosmic_Reader.jpg  used on input line 17.
@@ -2028,7 +2032,7 @@ Package pdftex.def Info: Chapters/related_work_img/FastForWord_Cosmic_Reader.jpg
 
 
 ]
-<Chapters/gameplay/HeartsGame.png, id=394, 1042.89626pt x 586.19pt>
+<Chapters/gameplay/HeartsGame.png, id=392, 1042.89626pt x 586.19pt>
 File: Chapters/gameplay/HeartsGame.png Graphic file (type png)
 <use Chapters/gameplay/HeartsGame.png>
 Package pdftex.def Info: Chapters/gameplay/HeartsGame.png  used on input line 64.
@@ -2042,7 +2046,7 @@ Overfull \hbox (43.29898pt too wide) in paragraph at lines 64--65
 Underfull \vbox (badness 6220) has occurred while \output is active []
 
  [28] [29 <./Chapters/gameplay/HeartsGame.png>]
-<Chapters/gameplay/MazeGame.jpg, id=412, 933.4875pt x 523.9575pt>
+<Chapters/gameplay/MazeGame.jpg, id=410, 933.4875pt x 523.9575pt>
 File: Chapters/gameplay/MazeGame.jpg Graphic file (type jpg)
 <use Chapters/gameplay/MazeGame.jpg>
 Package pdftex.def Info: Chapters/gameplay/MazeGame.jpg  used on input line 100.
@@ -2051,7 +2055,7 @@ Package pdftex.def Info: Chapters/gameplay/MazeGame.jpg  used on input line 100.
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [30] [31 <./Chapters/gameplay/MazeGame.jpg>]
-<Chapters/gameplay/SoundsGame.jpg, id=428, 931.48pt x 524.96124pt>
+<Chapters/gameplay/SoundsGame.jpg, id=425, 931.48pt x 524.96124pt>
 File: Chapters/gameplay/SoundsGame.jpg Graphic file (type jpg)
 <use Chapters/gameplay/SoundsGame.jpg>
 Package pdftex.def Info: Chapters/gameplay/SoundsGame.jpg  used on input line 136.
@@ -2060,13 +2064,13 @@ Package pdftex.def Info: Chapters/gameplay/SoundsGame.jpg  used on input line 13
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [32] [33 <./Chapters/gameplay/SoundsGame.jpg>]
-<Chapters/gameplay/WordsGame.jpg, id=442, 713.66624pt x 405.515pt>
+<Chapters/gameplay/WordsGame.jpg, id=440, 713.66624pt x 405.515pt>
 File: Chapters/gameplay/WordsGame.jpg Graphic file (type jpg)
 <use Chapters/gameplay/WordsGame.jpg>
 Package pdftex.def Info: Chapters/gameplay/WordsGame.jpg  used on input line 170.
 (pdftex.def)             Requested size: 321.14684pt x 182.48006pt.
  [34 <./Chapters/gameplay/WordsGame.jpg>]
-<Chapters/gameplay/PuzzleGame.jpg, id=452, 769.87625pt x 431.6125pt>
+<Chapters/gameplay/PuzzleGame.jpg, id=450, 769.87625pt x 431.6125pt>
 File: Chapters/gameplay/PuzzleGame.jpg Graphic file (type jpg)
 <use Chapters/gameplay/PuzzleGame.jpg>
 Package pdftex.def Info: Chapters/gameplay/PuzzleGame.jpg  used on input line 208.
@@ -2078,13 +2082,13 @@ Underfull \vbox (badness 3271) has occurred while \output is active []
 
 
 ] [38] [39] [40] [41]
-<Chapters/arq/class__minigames__minigames.jpg, id=505, 488.82625pt x 503.8825pt>
+<Chapters/arq/class__minigames__minigames.jpg, id=503, 488.82625pt x 503.8825pt>
 File: Chapters/arq/class__minigames__minigames.jpg Graphic file (type jpg)
 <use Chapters/arq/class__minigames__minigames.jpg>
 Package pdftex.def Info: Chapters/arq/class__minigames__minigames.jpg  used on input line 124.
 (pdftex.def)             Requested size: 244.41252pt x 251.94063pt.
  [42 <./Chapters/arq/class__minigames__minigames.jpg>]
-<Chapters/arq/new/class_handlers_Handlers.jpg, id=514, 1226.5825pt x 853.1875pt>
+<Chapters/arq/new/class_handlers_Handlers.jpg, id=512, 1226.5825pt x 853.1875pt>
 File: Chapters/arq/new/class_handlers_Handlers.jpg Graphic file (type jpg)
 <use Chapters/arq/new/class_handlers_Handlers.jpg>
 Package pdftex.def Info: Chapters/arq/new/class_handlers_Handlers.jpg  used on input line 173.
@@ -2102,7 +2106,7 @@ Overfull \hbox (35.63985pt too wide) in paragraph at lines 210--212
 []\T1/cmr/m/n/10.95 (-10) To up-date the score there is an im-ple-men-ta-tion of the \T1/cmr/bx/n/10.95 (-10) Score-M-an-ager\T1/cmr/m/n/10.95 (-10) , the (\T1/cmr/bx/n/10.95 (-10) HeartScoreManager\T1/cmr/m/n/10.95 (-10) )
  []
 
-<Chapters/arq/new/HeartsGame.jpg, id=533, 1507.6325pt x 1031.855pt>
+<Chapters/arq/new/HeartsGame.jpg, id=531, 1507.6325pt x 1031.855pt>
 File: Chapters/arq/new/HeartsGame.jpg Graphic file (type jpg)
 <use Chapters/arq/new/HeartsGame.jpg>
 Package pdftex.def Info: Chapters/arq/new/HeartsGame.jpg  used on input line 221.
@@ -2116,7 +2120,7 @@ Overfull \hbox (26.29324pt too wide) in paragraph at lines 221--222
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [45] [46 <./Chapters/arq/new/HeartsGame.jpg>]
-<Chapters/arq/MazeGame.jpg, id=543, 1566.85374pt x 980.66376pt>
+<Chapters/arq/MazeGame.jpg, id=541, 1566.85374pt x 980.66376pt>
 File: Chapters/arq/MazeGame.jpg Graphic file (type jpg)
 <use Chapters/arq/MazeGame.jpg>
 Package pdftex.def Info: Chapters/arq/MazeGame.jpg  used on input line 233.
@@ -2127,7 +2131,7 @@ Overfull \hbox (44.05975pt too wide) in paragraph at lines 233--234
  []
 
 [47 <./Chapters/arq/MazeGame.jpg>]
-<Chapters/arq/SoundsGame.jpg, id=551, 1253.68375pt x 1109.14375pt>
+<Chapters/arq/SoundsGame.jpg, id=549, 1253.68375pt x 1109.14375pt>
 File: Chapters/arq/SoundsGame.jpg Graphic file (type jpg)
 <use Chapters/arq/SoundsGame.jpg>
 Package pdftex.def Info: Chapters/arq/SoundsGame.jpg  used on input line 255.
@@ -2138,7 +2142,7 @@ Overfull \hbox (12.79588pt too wide) in paragraph at lines 255--256
  []
 
 [48 <./Chapters/arq/SoundsGame.jpg>] [49]
-<Chapters/arq/WordsGame.jpg, id=561, 1054.94125pt x 990.70125pt>
+<Chapters/arq/WordsGame.jpg, id=559, 1054.94125pt x 990.70125pt>
 File: Chapters/arq/WordsGame.jpg Graphic file (type jpg)
 <use Chapters/arq/WordsGame.jpg>
 Package pdftex.def Info: Chapters/arq/WordsGame.jpg  used on input line 281.
@@ -2147,7 +2151,7 @@ Package pdftex.def Info: Chapters/arq/WordsGame.jpg  used on input line 281.
 Underfull \vbox (badness 2103) has occurred while \output is active []
 
  [50 <./Chapters/arq/WordsGame.jpg>] [51]
-<Chapters/arq/PuzzleGame.jpg, id=571, 1130.2225pt x 1150.2975pt>
+<Chapters/arq/PuzzleGame.jpg, id=569, 1130.2225pt x 1150.2975pt>
 File: Chapters/arq/PuzzleGame.jpg Graphic file (type jpg)
 <use Chapters/arq/PuzzleGame.jpg>
 Package pdftex.def Info: Chapters/arq/PuzzleGame.jpg  used on input line 303.
@@ -2209,18 +2213,18 @@ Package logreq Info: Writing requests to 'template.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 58190 strings out of 474116
- 1118661 string characters out of 5743682
- 2190329 words of memory out of 5000000
- 79133 multiletter control sequences out of 15000+600000
+ 58186 strings out of 474116
+ 1118611 string characters out of 5743682
+ 2190336 words of memory out of 5000000
+ 79130 multiletter control sequences out of 15000+600000
  584673 words of font info for 169 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  137i,18n,138p,2447b,2539s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/hfbright/hfbr10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfbi1095.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfbx1095.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfcc1000.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfcc1095.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfti1095.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sftt1095.pfb>
-Output written on template.pdf (81 pages, 6551630 bytes).
+Output written on template.pdf (81 pages, 6553319 bytes).
 PDF statistics:
- 948 PDF objects out of 1000 (max. 8388607)
- 798 compressed objects within 8 object streams
- 233 named destinations out of 1000 (max. 500000)
- 48083 words of extra memory for PDF output out of 51595 (max. 10000000)
+ 943 PDF objects out of 1000 (max. 8388607)
+ 793 compressed objects within 8 object streams
+ 232 named destinations out of 1000 (max. 500000)
+ 48075 words of extra memory for PDF output out of 51595 (max. 10000000)
 

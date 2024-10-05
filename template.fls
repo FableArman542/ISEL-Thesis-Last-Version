@@ -723,8 +723,6 @@ INPUT ./Chapters/abstract-en.tex
 INPUT ./Chapters/abstract-en.tex
 INPUT ./Chapters/abstract-en.tex
 INPUT Chapters/abstract-en.tex
-INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/jknappen/ec/tcrm1095.tfm
-INPUT /usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc
 INPUT ./Chapters/abstract-pt.tex
 INPUT ./Chapters/abstract-pt.tex
 INPUT ./Chapters/abstract-pt.tex
@@ -757,6 +755,8 @@ OUTPUT Chapters/StateOfArt/Dyslexia.aux
 INPUT ./Chapters/StateOfArt/Dyslexia.tex
 INPUT ./Chapters/StateOfArt/Dyslexia.tex
 INPUT Chapters/StateOfArt/Dyslexia.tex
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/jknappen/ec/tcrm1095.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc
 INPUT ./Chapters/StateOfArt/LPD.tex
 INPUT ./Chapters/StateOfArt/LPD.tex
 OUTPUT Chapters/StateOfArt/LPD.aux
