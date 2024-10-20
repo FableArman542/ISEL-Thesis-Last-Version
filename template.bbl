@@ -1,5 +1,5 @@
 % $ biblatex auxiliary file $
-% $ biblatex bbl format version 3.3 $
+% $ biblatex bbl format version 3.2 $
 % Do not modify the above lines!
 %
 % This is an auxiliary file used by the 'biblatex' package.
@@ -16,8 +16,8 @@
   {}
 \endgroup
 
-\datalist[entry]{nyt/global//global/global/global}
-  \entry{dyslexiaCharAndSigns}{online}{}{}
+\datalist[entry]{nyt/global//global/global}
+  \entry{dyslexiaCharAndSigns}{online}{}
     \field{labeltitlesource}{title}
     \field{sortinit}{C}
     \field{sortinithash}{C}
@@ -29,7 +29,7 @@
     \field{year}{2023}
   \endentry
 
-  \entry{figma}{online}{}{}
+  \entry{figma}{online}{}
     \name{author}{1}{}{%
       {{hash=F}{%
          family={Figma},
@@ -50,7 +50,7 @@
     \field{year}{n.d.}
   \endentry
 
-  \entry{observer}{online}{}{}
+  \entry{observer}{online}{}
     \name{author}{1}{}{%
       {{hash=GR}{%
          family={Guru},
@@ -73,7 +73,7 @@
     \field{year}{n.d.}
   \endentry
 
-  \entry{singleton}{online}{}{}
+  \entry{singleton}{online}{}
     \name{author}{1}{}{%
       {{hash=GR}{%
          family={Guru},
@@ -96,7 +96,7 @@
     \field{year}{n.d.}
   \endentry
 
-  \entry{gemlearningFastFor}{online}{}{}
+  \entry{gemlearningFastFor}{online}{}
     \name{author}{1}{}{%
       {{hash=LG}{%
          family={Learning},
@@ -118,7 +118,7 @@
     \field{year}{2023}
   \endentry
 
-  \entry{dyslexiaUnderstanding}{online}{}{}
+  \entry{dyslexiaUnderstanding}{online}{}
     \name{author}{1}{}{%
       {{hash=MK}{%
          family={Martinelli},
@@ -141,7 +141,7 @@
     \field{year}{2023}
   \endentry
 
-  \entry{gblProsCons}{online}{}{}
+  \entry{gblProsCons}{online}{}
     \name{author}{1}{}{%
       {{hash=NJ}{%
          family={Nisbet},
@@ -164,7 +164,7 @@
     \field{year}{2023}
   \endentry
 
-  \entry{dyslexiaClinic}{online}{}{}
+  \entry{dyslexiaClinic}{online}{}
     \name{author}{1}{}{%
       {{hash=SMC}{%
          family={Staff},
@@ -188,7 +188,7 @@
     \field{year}{2022}
   \endentry
 
-  \entry{unityDocMonoBehaviour}{online}{}{}
+  \entry{unityDocMonoBehaviour}{online}{}
     \name{author}{1}{}{%
       {{hash=TU}{%
          family={Technologies},
@@ -211,7 +211,7 @@
     \field{year}{2023}
   \endentry
 
-  \entry{unityDocScriptableObj}{online}{}{}
+  \entry{unityDocScriptableObj}{online}{}
     \name{author}{1}{}{%
       {{hash=TU}{%
          family={Technologies},
@@ -234,7 +234,7 @@
     \field{year}{2023}
   \endentry
 
-  \entry{unityDocEvent}{online}{}{}
+  \entry{unityDocEvent}{online}{}
     \name{author}{1}{}{%
       {{hash=TU}{%
          family={Technologies},
@@ -257,7 +257,7 @@
     \field{year}{2024}
   \endentry
 
-  \entry{dyslexiaStatistics}{online}{}{}
+  \entry{dyslexiaStatistics}{online}{}
     \name{author}{1}{}{%
       {{hash=ZS}{%
          family={Zauderer},
