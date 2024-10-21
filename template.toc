@@ -23,106 +23,105 @@
 \contentsline {section}{\numberline {2.1}Learning Disabilities}{4}{section.2.1}%
 \contentsline {section}{\numberline {2.2}Overcoming Learning Disabilities}{5}{section.2.2}%
 \contentsline {subsection}{\numberline {2.2.1}Dyslexia}{6}{subsection.2.2.1}%
-\contentsline {paragraph}{\textbf {Goals}}{6}{section*.10}%
-\contentsline {paragraph}{\textbf {Psycographics}}{6}{section*.11}%
-\contentsline {paragraph}{\textbf {Problems}}{7}{section*.12}%
-\contentsline {paragraph}{\textbf {Facts}}{7}{section*.13}%
-\contentsline {paragraph}{\textbf {Needs}}{7}{section*.14}%
-\contentsline {subsection}{\numberline {2.2.2}Language Processing Disorder}{9}{subsection.2.2.2}%
-\contentsline {paragraph}{Goals}{9}{section*.15}%
-\contentsline {paragraph}{Psycographics}{9}{section*.16}%
-\contentsline {paragraph}{Problems}{10}{section*.17}%
-\contentsline {paragraph}{Characteristics}{10}{section*.18}%
-\contentsline {paragraph}{Needs}{10}{section*.19}%
-\contentsline {subsection}{\numberline {2.2.3}Dyscalculia}{12}{subsection.2.2.3}%
-\contentsline {paragraph}{Goals}{12}{section*.20}%
-\contentsline {paragraph}{Psycographics}{12}{section*.21}%
-\contentsline {paragraph}{Problems}{13}{section*.22}%
-\contentsline {paragraph}{Characteristics}{13}{section*.23}%
-\contentsline {paragraph}{Needs}{13}{section*.24}%
-\contentsline {subsection}{\numberline {2.2.4}Non-Verbal Learning Disabilities (NVLD)}{15}{subsection.2.2.4}%
-\contentsline {paragraph}{Goals}{15}{section*.25}%
-\contentsline {paragraph}{Psycographics}{15}{section*.26}%
-\contentsline {paragraph}{Problems}{16}{section*.27}%
-\contentsline {paragraph}{Characteristics}{16}{section*.28}%
-\contentsline {paragraph}{Needs}{17}{section*.29}%
-\contentsline {subsection}{\numberline {2.2.5}Dysgraphia}{18}{subsection.2.2.5}%
-\contentsline {paragraph}{Goals}{18}{section*.30}%
-\contentsline {paragraph}{Psychographics}{18}{section*.31}%
-\contentsline {paragraph}{Problems}{19}{section*.32}%
-\contentsline {paragraph}{Characteristics}{19}{section*.33}%
-\contentsline {paragraph}{Needs}{19}{section*.34}%
-\contentsline {subsection}{\numberline {2.2.6}Auditory Processing Disorder}{21}{subsection.2.2.6}%
-\contentsline {paragraph}{Goals}{21}{section*.35}%
-\contentsline {paragraph}{Psycographics}{21}{section*.36}%
-\contentsline {paragraph}{Problems}{22}{section*.37}%
+\contentsline {paragraph}{\textbf {Goals}}{6}{section*.11}%
+\contentsline {paragraph}{\textbf {Psycographics}}{7}{section*.12}%
+\contentsline {paragraph}{\textbf {Problems}}{7}{section*.13}%
+\contentsline {paragraph}{\textbf {Facts}}{7}{section*.14}%
+\contentsline {paragraph}{\textbf {Needs}}{8}{section*.15}%
+\contentsline {subsection}{\numberline {2.2.2}Language Processing Disorder}{10}{subsection.2.2.2}%
+\contentsline {paragraph}{Goals}{10}{section*.17}%
+\contentsline {paragraph}{Psycographics}{11}{section*.18}%
+\contentsline {paragraph}{Problems}{11}{section*.19}%
+\contentsline {paragraph}{Characteristics}{11}{section*.20}%
+\contentsline {paragraph}{Needs}{12}{section*.21}%
+\contentsline {subsection}{\numberline {2.2.3}Dyscalculia}{13}{subsection.2.2.3}%
+\contentsline {paragraph}{Goals}{13}{section*.23}%
+\contentsline {paragraph}{Psycographics}{14}{section*.24}%
+\contentsline {paragraph}{Problems}{14}{section*.25}%
+\contentsline {paragraph}{Characteristics}{14}{section*.26}%
+\contentsline {paragraph}{Needs}{15}{section*.27}%
+\contentsline {subsection}{\numberline {2.2.4}Non-Verbal Learning Disabilities (NVLD)}{16}{subsection.2.2.4}%
+\contentsline {paragraph}{Goals}{16}{section*.29}%
+\contentsline {paragraph}{Psycographics}{17}{section*.30}%
+\contentsline {paragraph}{Problems}{17}{section*.31}%
+\contentsline {paragraph}{Characteristics}{18}{section*.32}%
+\contentsline {paragraph}{Needs}{18}{section*.33}%
+\contentsline {subsection}{\numberline {2.2.5}Dysgraphia}{20}{subsection.2.2.5}%
+\contentsline {paragraph}{Goals}{20}{section*.35}%
+\contentsline {paragraph}{Psychographics}{21}{section*.36}%
+\contentsline {paragraph}{Problems}{21}{section*.37}%
 \contentsline {paragraph}{Characteristics}{22}{section*.38}%
-\contentsline {paragraph}{Needs}{23}{section*.39}%
-\contentsline {subsection}{\numberline {2.2.7}Visual Motor Deficit}{24}{subsection.2.2.7}%
-\contentsline {paragraph}{Goals}{24}{section*.40}%
-\contentsline {paragraph}{Psycographics}{24}{section*.41}%
-\contentsline {paragraph}{Problems}{24}{section*.42}%
-\contentsline {paragraph}{Characteristics}{25}{section*.43}%
-\contentsline {paragraph}{Needs}{25}{section*.44}%
-\contentsline {section}{\numberline {2.3}Games for Disabilities}{26}{section.2.3}%
-\contentsline {paragraph}{Fast ForWord}{26}{section*.45}%
-\contentsline {chapter}{\chapternumberline {3}Game Design and Mechanics}{27}{chapter.3}%
-\contentsline {section}{\numberline {3.1}Games Overview}{28}{section.3.1}%
-\contentsline {section}{\numberline {3.2}Game 1 - Hearts}{29}{section.3.2}%
-\contentsline {paragraph}{Description}{29}{section*.47}%
-\contentsline {paragraph}{The Visual Attention and Processing Speed}{29}{section*.49}%
-\contentsline {paragraph}{Hand-Eye Coordination and Fine Motor Skills}{29}{section*.50}%
-\contentsline {paragraph}{Impulsivity Control and Decision Making}{29}{section*.51}%
-\contentsline {section}{\numberline {3.3}Game 2 - Maze}{31}{section.3.3}%
-\contentsline {paragraph}{Description}{31}{section*.53}%
-\contentsline {paragraph}{Problem Solving}{31}{section*.55}%
-\contentsline {paragraph}{Visual-Motor Integration}{31}{section*.56}%
-\contentsline {paragraph}{Language Processing and Comprehension}{31}{section*.57}%
-\contentsline {section}{\numberline {3.4}Game 3 - Sounds}{33}{section.3.4}%
-\contentsline {paragraph}{Description}{33}{section*.59}%
-\contentsline {paragraph}{Auditory Discrimination}{33}{section*.61}%
-\contentsline {paragraph}{Visual-Auditory Integration}{33}{section*.62}%
-\contentsline {section}{\numberline {3.5}Game 4 - Words}{35}{section.3.5}%
-\contentsline {paragraph}{Description}{35}{section*.64}%
-\contentsline {paragraph}{Spelling and Vocabulary Building}{35}{section*.66}%
-\contentsline {paragraph}{Memory}{35}{section*.67}%
-\contentsline {section}{\numberline {3.6}Game 5 - Puzzle}{36}{section.3.6}%
-\contentsline {paragraph}{Description}{36}{section*.69}%
-\contentsline {paragraph}{Fine Motor Skills}{36}{section*.71}%
-\contentsline {paragraph}{Problem Solving and Critical Thinking}{36}{section*.72}%
-\contentsline {paragraph}{Patience}{36}{section*.73}%
-\contentsline {chapter}{\chapternumberline {4}Game Development}{39}{chapter.4}%
-\contentsline {section}{\numberline {4.1}Design Principles and Accessibility Considerations}{40}{section.4.1}%
-\contentsline {paragraph}{Color}{40}{section*.75}%
-\contentsline {paragraph}{Dimensional Structure}{40}{section*.76}%
-\contentsline {paragraph}{Style}{40}{section*.77}%
-\contentsline {section}{\numberline {4.2}Methodology, Tools, and Techniques}{41}{section.4.2}%
-\contentsline {subsection}{\numberline {4.2.1}Unity Components}{42}{subsection.4.2.1}%
-\contentsline {paragraph}{Regular Update Events}{42}{section*.78}%
-\contentsline {paragraph}{Initialization Events}{42}{section*.79}%
-\contentsline {paragraph}{GUI events}{42}{section*.80}%
-\contentsline {paragraph}{Physics events}{42}{section*.81}%
-\contentsline {section}{\numberline {4.3}Architecture Overview}{43}{section.4.3}%
-\contentsline {paragraph}{\textit {GameHandling}}{45}{section*.83}%
-\contentsline {paragraph}{\textit {ScoreManager}}{45}{section*.84}%
-\contentsline {paragraph}{\textit {MenuHandling}}{45}{section*.85}%
-\contentsline {paragraph}{\textit {ScenesHandling}}{46}{section*.86}%
-\contentsline {paragraph}{Common}{46}{section*.88}%
-\contentsline {section}{\numberline {4.4}Game 1 - Hearts}{48}{section.4.4}%
-\contentsline {section}{\numberline {4.5}Game 2 - Maze}{50}{section.4.5}%
-\contentsline {section}{\numberline {4.6}Game 3 - Sounds}{51}{section.4.6}%
-\contentsline {section}{\numberline {4.7}Game 4 - Words}{53}{section.4.7}%
-\contentsline {section}{\numberline {4.8}Game 5 - Puzzle}{55}{section.4.8}%
-\contentsline {chapter}{\chapternumberline {5}Experimental Evaluation}{57}{chapter.5}%
-\contentsline {section}{\numberline {5.1}Testing process and limitations}{58}{section.5.1}%
-\contentsline {section}{\numberline {5.2}Results}{59}{section.5.2}%
-\contentsline {paragraph}{Gameplay}{59}{section*.95}%
-\contentsline {paragraph}{Feedback}{59}{section*.96}%
-\contentsline {subsection}{\numberline {5.2.1}Maze Game Results}{60}{subsection.5.2.1}%
-\contentsline {subsection}{\numberline {5.2.2}Puzzle Game Results}{61}{subsection.5.2.2}%
-\contentsline {subsection}{\numberline {5.2.3}Hearts Game Results}{61}{subsection.5.2.3}%
-\contentsline {subsection}{\numberline {5.2.4}Discussion}{62}{subsection.5.2.4}%
-\contentsline {chapter}{\chapternumberline {6}Conclusions}{63}{chapter.6}%
-\contentsline {section}{\numberline {6.1}Summary of the work}{64}{section.6.1}%
-\contentsline {section}{\numberline {6.2}Conclusions and future work}{65}{section.6.2}%
-\contentsline {chapter}{Bibliography}{67}{section*.100}%
+\contentsline {paragraph}{Needs}{22}{section*.39}%
+\contentsline {subsection}{\numberline {2.2.6}Auditory Processing Disorder}{23}{subsection.2.2.6}%
+\contentsline {paragraph}{Goals}{23}{section*.41}%
+\contentsline {paragraph}{Psychographics}{24}{section*.42}%
+\contentsline {paragraph}{Problems}{24}{section*.43}%
+\contentsline {paragraph}{Characteristics}{25}{section*.44}%
+\contentsline {paragraph}{Needs}{25}{section*.45}%
+\contentsline {subsection}{\numberline {2.2.7}Visual Motor Deficit}{27}{subsection.2.2.7}%
+\contentsline {paragraph}{Goals}{27}{section*.47}%
+\contentsline {paragraph}{Psycographics}{27}{section*.48}%
+\contentsline {paragraph}{Problems}{28}{section*.49}%
+\contentsline {paragraph}{Characteristics}{28}{section*.50}%
+\contentsline {paragraph}{Needs}{28}{section*.51}%
+\contentsline {section}{\numberline {2.3}Games for Disabilities}{30}{section.2.3}%
+\contentsline {paragraph}{Fast ForWord}{30}{section*.52}%
+\contentsline {chapter}{\chapternumberline {3}Game Design and Mechanics}{31}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Game 1 - Hearts}{32}{section.3.1}%
+\contentsline {paragraph}{Description}{32}{section*.54}%
+\contentsline {paragraph}{The Visual Attention and Processing Speed}{32}{section*.56}%
+\contentsline {paragraph}{Hand-Eye Coordination and Fine Motor Skills}{32}{section*.57}%
+\contentsline {paragraph}{Impulsivity Control and Decision Making}{32}{section*.58}%
+\contentsline {section}{\numberline {3.2}Game 2 - Maze}{34}{section.3.2}%
+\contentsline {paragraph}{Description}{34}{section*.60}%
+\contentsline {paragraph}{Problem Solving}{34}{section*.62}%
+\contentsline {paragraph}{Visual-Motor Integration}{34}{section*.63}%
+\contentsline {paragraph}{Language Processing and Comprehension}{34}{section*.64}%
+\contentsline {section}{\numberline {3.3}Game 3 - Sounds}{36}{section.3.3}%
+\contentsline {paragraph}{Description}{36}{section*.66}%
+\contentsline {paragraph}{Auditory Discrimination}{36}{section*.68}%
+\contentsline {paragraph}{Visual-Auditory Integration}{36}{section*.69}%
+\contentsline {section}{\numberline {3.4}Game 4 - Words}{38}{section.3.4}%
+\contentsline {paragraph}{Description}{38}{section*.71}%
+\contentsline {paragraph}{Spelling and Vocabulary Building}{38}{section*.73}%
+\contentsline {paragraph}{Memory}{38}{section*.74}%
+\contentsline {section}{\numberline {3.5}Game 5 - Puzzle}{39}{section.3.5}%
+\contentsline {paragraph}{Description}{39}{section*.76}%
+\contentsline {paragraph}{Fine Motor Skills}{39}{section*.78}%
+\contentsline {paragraph}{Problem Solving and Critical Thinking}{39}{section*.79}%
+\contentsline {paragraph}{Patience}{39}{section*.80}%
+\contentsline {chapter}{\chapternumberline {4}Game Development}{41}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Design Principles and Accessibility Considerations}{42}{section.4.1}%
+\contentsline {paragraph}{Color}{42}{section*.82}%
+\contentsline {paragraph}{Dimensional Structure}{42}{section*.83}%
+\contentsline {paragraph}{Style}{42}{section*.84}%
+\contentsline {section}{\numberline {4.2}Methodology, Tools, and Techniques}{44}{section.4.2}%
+\contentsline {subsection}{\numberline {4.2.1}Unity Components}{45}{subsection.4.2.1}%
+\contentsline {paragraph}{Regular Update Events}{45}{section*.87}%
+\contentsline {paragraph}{Initialization Events}{45}{section*.88}%
+\contentsline {paragraph}{GUI events}{45}{section*.89}%
+\contentsline {paragraph}{Physics events}{45}{section*.90}%
+\contentsline {section}{\numberline {4.3}Architecture Overview}{46}{section.4.3}%
+\contentsline {paragraph}{\textit {GameHandling}}{48}{section*.92}%
+\contentsline {paragraph}{\textit {ScoreManager}}{48}{section*.93}%
+\contentsline {paragraph}{\textit {MenuHandling}}{48}{section*.94}%
+\contentsline {paragraph}{\textit {ScenesHandling}}{49}{section*.95}%
+\contentsline {paragraph}{Common}{49}{section*.97}%
+\contentsline {section}{\numberline {4.4}Game 1 - Hearts}{51}{section.4.4}%
+\contentsline {section}{\numberline {4.5}Game 2 - Maze}{53}{section.4.5}%
+\contentsline {section}{\numberline {4.6}Game 3 - Sounds}{54}{section.4.6}%
+\contentsline {section}{\numberline {4.7}Game 4 - Words}{56}{section.4.7}%
+\contentsline {section}{\numberline {4.8}Game 5 - Puzzle}{58}{section.4.8}%
+\contentsline {chapter}{\chapternumberline {5}Experimental Evaluation}{61}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Testing process and limitations}{62}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Results}{63}{section.5.2}%
+\contentsline {paragraph}{Gameplay}{63}{section*.104}%
+\contentsline {paragraph}{Feedback}{63}{section*.105}%
+\contentsline {subsection}{\numberline {5.2.1}Maze Game Results}{64}{subsection.5.2.1}%
+\contentsline {subsection}{\numberline {5.2.2}Puzzle Game Results}{65}{subsection.5.2.2}%
+\contentsline {subsection}{\numberline {5.2.3}Hearts Game Results}{65}{subsection.5.2.3}%
+\contentsline {subsection}{\numberline {5.2.4}Discussion}{66}{subsection.5.2.4}%
+\contentsline {chapter}{\chapternumberline {6}Conclusions}{67}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Summary of the work}{68}{section.6.1}%
+\contentsline {section}{\numberline {6.2}Conclusions and future work}{69}{section.6.2}%
+\contentsline {chapter}{Bibliography}{71}{section*.109}%

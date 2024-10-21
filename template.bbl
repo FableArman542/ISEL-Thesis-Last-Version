@@ -1,5 +1,5 @@
 % $ biblatex auxiliary file $
-% $ biblatex bbl format version 3.3 $
+% $ biblatex bbl format version 3.2 $
 % Do not modify the above lines!
 %
 % This is an auxiliary file used by the 'biblatex' package.
@@ -16,8 +16,8 @@
   {}
 \endgroup
 
-\datalist[entry]{nyt/global//global/global/global}
-  \entry{dyslexiaCharAndSigns}{online}{}{}
+\datalist[entry]{nyt/global//global/global}
+  \entry{dyslexiaCharAndSigns}{online}{}
     \field{labeltitlesource}{title}
     \field{sortinit}{C}
     \field{sortinithash}{C}
@@ -29,7 +29,95 @@
     \field{year}{2023}
   \endentry
 
-  \entry{figma}{online}{}{}
+  \entry{ChildDevelopment}{online}{}
+    \name{author}{1}{}{%
+      {{hash=C}{%
+         family={{Child Development Australia}},
+         familyi={C\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{C1}
+    \strng{fullhash}{C1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{note}{Accessed: 2024-10-20}
+    \field{title}{Visual Perception Concerns in Child Development}
+    \verb{url}
+    \verb https://childdevelopment.com.au/areas-of-concern/visual-perception/
+    \endverb
+    \field{year}{2023}
+  \endentry
+
+  \entry{cleveland_dysgraphia}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=CC}{%
+         family={Clinic},
+         familyi={C\bibinitperiod},
+         given={Cleveland},
+         giveni={C\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CC1}
+    \strng{fullhash}{CC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{note}{Accessed: 2024-10-20}
+    \field{title}{Dysgraphia}
+    \verb{url}
+    \verb https://my.clevelandclinic.org/health/diseases/23294-dysgraphia
+    \endverb
+    \field{year}{2023}
+  \endentry
+
+  \entry{clevelandclinic2024}{online}{}
+    \name{author}{1}{}{%
+      {{hash=CC}{%
+         family={Clinic},
+         familyi={C\bibinitperiod},
+         given={Cleveland},
+         giveni={C\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CC1}
+    \strng{fullhash}{CC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{title}{Dyscalculia: Symptoms and Causes}
+    \verb{url}
+    \verb https://my.clevelandclinic.org/health/diseases/23949-dyscalculia
+    \endverb
+    \field{year}{2024}
+  \endentry
+
+  \entry{edutopia_dysgraphia}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=E}{%
+         family={Edutopia},
+         familyi={E\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{E1}
+    \strng{fullhash}{E1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{E}
+    \field{sortinithash}{E}
+    \field{note}{Accessed: 2024-10-20}
+    \field{title}{What Teachers Should Know About Dysgraphia}
+    \verb{url}
+    \verb https://www.edutopia.org/article/what-teachers-should-know-about-dysg
+    \verb raphia
+    \endverb
+    \field{year}{2023}
+  \endentry
+
+  \entry{figma}{online}{}
     \name{author}{1}{}{%
       {{hash=F}{%
          family={Figma},
@@ -50,7 +138,7 @@
     \field{year}{n.d.}
   \endentry
 
-  \entry{observer}{online}{}{}
+  \entry{observer}{online}{}
     \name{author}{1}{}{%
       {{hash=GR}{%
          family={Guru},
@@ -73,7 +161,7 @@
     \field{year}{n.d.}
   \endentry
 
-  \entry{singleton}{online}{}{}
+  \entry{singleton}{online}{}
     \name{author}{1}{}{%
       {{hash=GR}{%
          family={Guru},
@@ -96,7 +184,142 @@
     \field{year}{n.d.}
   \endentry
 
-  \entry{gemlearningFastFor}{online}{}{}
+  \entry{HearingHealth}{online}{}
+    \name{author}{1}{}{%
+      {{hash=H}{%
+         family={{Hearing Health Foundation}},
+         familyi={H\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{H1}
+    \strng{fullhash}{H1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \field{note}{Accessed: 2024-10-20}
+    \field{title}{APD Demographics}
+    \verb{url}
+    \verb https://hearinghealthfoundation.org/apd-demographics
+    \endverb
+    \field{year}{2022}
+  \endentry
+
+  \entry{understood_nvld_adult_2024}{online}{}
+    \name{author}{1}{}{%
+      {{hash=HM}{%
+         family={Hearst},
+         familyi={H\bibinitperiod},
+         given={Michaela},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{HM1}
+    \strng{fullhash}{HM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \field{title}{6 Surprising Ways Nonverbal Learning Disability Affects Me as a Young Adult}
+    \verb{url}
+    \verb https://www.understood.org/en/articles/6-surprising-ways-nonverbal-le
+    \verb arning-disability-affects-me-as-a-young-adult
+    \endverb
+    \field{year}{2024}
+  \endentry
+
+  \entry{adobeGuidelines}{online}{}
+    \name{author}{1}{}{%
+      {{hash=IA}{%
+         family={Inc.},
+         familyi={I\bibinitperiod},
+         given={Adobe},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{IA1}
+    \strng{fullhash}{IA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{I}
+    \field{sortinithash}{I}
+    \field{title}{Adobe Generative AI User Guidelines}
+    \verb{url}
+    \verb https://www.adobe.com/legal/licenses-terms/adobe-gen-ai-user-guidelin
+    \verb es.html
+    \endverb
+    \field{year}{2024}
+  \endentry
+
+  \entry{jama_nvld_2024}{article}{}
+    \name{author}{1}{}{%
+      {{hash=oJaA}{%
+         prefix={of},
+         prefixi={o\bibinitperiod},
+         family={JAMA\bibnamedelima article},
+         familyi={J\bibinitperiod\bibinitdelim a\bibinitperiod},
+         given={Author},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{JaAo1}
+    \strng{fullhash}{JaAo1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{J}
+    \field{sortinithash}{J}
+    \field{title}{Nonverbal Learning Disabilities: Impact and Interventions}
+    \verb{url}
+    \verb https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2764298
+    \endverb
+    \field{year}{2024}
+  \endentry
+
+  \entry{understood_accommodations_2024}{online}{}
+    \name{author}{1}{}{%
+      {{hash=KK}{%
+         family={Kelly},
+         familyi={K\bibinitperiod},
+         given={Kate},
+         giveni={K\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{KK1}
+    \strng{fullhash}{KK1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{K}
+    \field{sortinithash}{K}
+    \field{title}{Classroom Accommodations for Nonverbal Learning Disabilities}
+    \verb{url}
+    \verb https://www.understood.org/en/articles/at-a-glance-classroom-accommod
+    \verb ations-for-nonverbal-learning-disabilities
+    \endverb
+    \field{year}{2024}
+  \endentry
+
+  \entry{KidsHealth}{online}{}
+    \name{author}{1}{}{%
+      {{hash=K}{%
+         family={{KidsHealth}},
+         familyi={K\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{K1}
+    \strng{fullhash}{K1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{K}
+    \field{sortinithash}{K}
+    \field{note}{Accessed: 2024-10-20}
+    \field{title}{Central Auditory Processing Disorder}
+    \verb{url}
+    \verb https://kidshealth.org/en/parents/central-auditory.html
+    \endverb
+    \field{year}{2023}
+  \endentry
+
+  \entry{gemlearningFastFor}{online}{}
     \name{author}{1}{}{%
       {{hash=LG}{%
          family={Learning},
@@ -118,7 +341,30 @@
     \field{year}{2023}
   \endentry
 
-  \entry{dyslexiaUnderstanding}{online}{}{}
+  \entry{additude}{online}{}
+    \name{author}{1}{}{%
+      {{hash=MA}{%
+         family={Magazine},
+         familyi={M\bibinitperiod},
+         given={ADDitude},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MA1}
+    \strng{fullhash}{MA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{title}{Language Processing Disorders: Recognizing Symptoms}
+    \verb{url}
+    \verb https://www.additudemag.com/language-processing-disorders-recognizing
+    \verb -symptoms/
+    \endverb
+    \field{year}{2024}
+  \endentry
+
+  \entry{dyslexiaUnderstanding}{online}{}
     \name{author}{1}{}{%
       {{hash=MK}{%
          family={Martinelli},
@@ -141,7 +387,29 @@
     \field{year}{2023}
   \endentry
 
-  \entry{gblProsCons}{online}{}{}
+  \entry{Nationwide}{online}{}
+    \name{author}{1}{}{%
+      {{hash=N}{%
+         family={{Nationwide Children's Hospital}},
+         familyi={N\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{N1}
+    \strng{fullhash}{N1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{N}
+    \field{sortinithash}{N}
+    \field{note}{Accessed: 2024-10-20}
+    \field{title}{Auditory Processing Disorder (APD)}
+    \verb{url}
+    \verb https://www.nationwidechildrens.org/conditions/auditory-processing-di
+    \verb sorder
+    \endverb
+    \field{year}{2023}
+  \endentry
+
+  \entry{gblProsCons}{online}{}
     \name{author}{1}{}{%
       {{hash=NJ}{%
          family={Nisbet},
@@ -164,7 +432,141 @@
     \field{year}{2023}
   \endentry
 
-  \entry{dyslexiaClinic}{online}{}{}
+  \entry{pmc2024}{article}{}
+    \name{author}{1}{}{%
+      {{hash=oPaA}{%
+         prefix={of},
+         prefixi={o\bibinitperiod},
+         family={PMC\bibnamedelima article},
+         familyi={P\bibinitperiod\bibinitdelim a\bibinitperiod},
+         given={Author},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{PaAo1}
+    \strng{fullhash}{PaAo1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{P}
+    \field{sortinithash}{P}
+    \field{title}{Neuropsychological Perspectives on Dyscalculia}
+    \verb{url}
+    \verb https://pmc.ncbi.nlm.nih.gov/articles/PMC6440373/
+    \endverb
+    \field{year}{2024}
+  \endentry
+
+  \entry{PorterAcademy}{online}{}
+    \name{author}{1}{}{%
+      {{hash=P}{%
+         family={{Porter Academy}},
+         familyi={P\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{P1}
+    \strng{fullhash}{P1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{P}
+    \field{sortinithash}{P}
+    \field{note}{Accessed: 2024-10-20}
+    \field{title}{Visual Perceptual Deficits}
+    \verb{url}
+    \verb https://www.porteracademy.org/visual-perceptual-deficits/
+    \endverb
+    \field{year}{2023}
+  \endentry
+
+  \entry{gow}{online}{}
+    \name{author}{1}{}{%
+      {{hash=SG}{%
+         family={School},
+         familyi={S\bibinitperiod},
+         given={Gow},
+         giveni={G\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SG1}
+    \strng{fullhash}{SG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{title}{Diagnosis of Language-Based Learning Disability: What to Do Next}
+    \verb{url}
+    \verb https://www.gow.org/about/blog/diagnosis-of-language-based-learning-d
+    \verb isability-what-to-do-next
+    \endverb
+    \field{year}{2024}
+  \endentry
+
+  \entry{ScienceDaily}{online}{}
+    \name{author}{1}{}{%
+      {{hash=S}{%
+         family={{ScienceDaily}},
+         familyi={S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{S1}
+    \strng{fullhash}{S1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{note}{Accessed: 2024-10-20}
+    \field{title}{Visual Perception and Processing Deficits Linked to Learning Disorders}
+    \verb{url}
+    \verb https://www.sciencedaily.com/releases/2020/04/200428093519.htm
+    \endverb
+    \field{year}{2020}
+  \endentry
+
+  \entry{greatspeech}{online}{}
+    \name{author}{1}{}{%
+      {{hash=SG}{%
+         family={Speech},
+         familyi={S\bibinitperiod},
+         given={Great},
+         giveni={G\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SG2}
+    \strng{fullhash}{SG2}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{title}{Your Guide to Child Language Disorders}
+    \verb{url}
+    \verb https://www.greatspeech.com/your-guide-to-child-language-disorders/
+    \endverb
+    \field{year}{2024}
+  \endentry
+
+  \entry{Speechify}{online}{}
+    \name{author}{1}{}{%
+      {{hash=S}{%
+         family={{Speechify}},
+         familyi={S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{S2}
+    \strng{fullhash}{S2}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{note}{Accessed: 2024-10-20}
+    \field{title}{Visual Perceptual and Visual Motor Deficit Tools}
+    \verb{url}
+    \verb https://speechify.com/blog/visual-perceptual-visual-motor-deficit-too
+    \verb ls/?landing_url=https://speechify.com/blog/visual-perceptual-visual-m
+    \verb otor-deficit-tools/
+    \endverb
+    \field{year}{2023}
+  \endentry
+
+  \entry{dyslexiaClinic}{online}{}
     \name{author}{1}{}{%
       {{hash=SMC}{%
          family={Staff},
@@ -188,7 +590,52 @@
     \field{year}{2022}
   \endentry
 
-  \entry{unityDocMonoBehaviour}{online}{}{}
+  \entry{understood2024}{online}{}
+    \name{author}{1}{}{%
+      {{hash=TTU}{%
+         family={Team},
+         familyi={T\bibinitperiod},
+         given={The\bibnamedelima Understood},
+         giveni={T\bibinitperiod\bibinitdelim U\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{TTU1}
+    \strng{fullhash}{TTU1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{T}
+    \field{sortinithash}{T}
+    \field{title}{Dyscalculia Fact Sheet}
+    \verb{url}
+    \verb https://www.understood.org/en/articles/dyscalculia-fact-sheet
+    \endverb
+    \field{year}{2024}
+  \endentry
+
+  \entry{understood_nvld_2024}{online}{}
+    \name{author}{1}{}{%
+      {{hash=TTU}{%
+         family={Team},
+         familyi={T\bibinitperiod},
+         given={The\bibnamedelima Understood},
+         giveni={T\bibinitperiod\bibinitdelim U\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{TTU1}
+    \strng{fullhash}{TTU1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{T}
+    \field{sortinithash}{T}
+    \field{title}{What are Nonverbal Learning Disabilities?}
+    \verb{url}
+    \verb https://www.understood.org/en/articles/understanding-nonverbal-learni
+    \verb ng-disabilities
+    \endverb
+    \field{year}{2024}
+  \endentry
+
+  \entry{unityDocMonoBehaviour}{online}{}
     \name{author}{1}{}{%
       {{hash=TU}{%
          family={Technologies},
@@ -211,7 +658,7 @@
     \field{year}{2023}
   \endentry
 
-  \entry{unityDocScriptableObj}{online}{}{}
+  \entry{unityDocScriptableObj}{online}{}
     \name{author}{1}{}{%
       {{hash=TU}{%
          family={Technologies},
@@ -234,7 +681,7 @@
     \field{year}{2023}
   \endentry
 
-  \entry{unityDocEvent}{online}{}{}
+  \entry{unityDocEvent}{online}{}
     \name{author}{1}{}{%
       {{hash=TU}{%
          family={Technologies},
@@ -257,7 +704,98 @@
     \field{year}{2024}
   \endentry
 
-  \entry{dyslexiaStatistics}{online}{}{}
+  \entry{understood_accommodations}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=U}{%
+         family={Understood},
+         familyi={U\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{U1}
+    \strng{fullhash}{U1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{U}
+    \field{sortinithash}{U}
+    \field{note}{Accessed: 2024-10-20}
+    \field{title}{Classroom Accommodations for Dysgraphia}
+    \verb{url}
+    \verb https://www.understood.org/en/articles/at-a-glance-classroom-accommod
+    \verb ations-for-dysgraphia
+    \endverb
+    \field{year}{2023}
+  \endentry
+
+  \entry{vanderbilt}{online}{}
+    \name{author}{1}{}{%
+      {{hash=UV}{%
+         family={University},
+         familyi={U\bibinitperiod},
+         given={Vanderbilt},
+         giveni={V\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{UV1}
+    \strng{fullhash}{UV1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{U}
+    \field{sortinithash}{U}
+    \field{note}{Accessed: 2024-10-20}
+    \field{title}{Language Processing Disorder}
+    \verb{url}
+    \verb https://my.vanderbilt.edu/speds2430/2020-topics/language-processing-d
+    \verb isorder/
+    \endverb
+    \field{year}{2024}
+  \endentry
+
+  \entry{pmc_dysgraphia}{article}{}
+    \name{author}{1}{}{%
+      {{hash=UA}{%
+         family={Unknown},
+         familyi={U\bibinitperiod},
+         given={Author},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{UA1}
+    \strng{fullhash}{UA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{U}
+    \field{sortinithash}{U}
+    \field{note}{Accessed: 2024-10-20}
+    \field{title}{Article on Dysgraphia}
+    \verb{url}
+    \verb https://pmc.ncbi.nlm.nih.gov/articles/PMC7082241/
+    \endverb
+    \field{journaltitle}{PMC}
+    \field{year}{2023}
+  \endentry
+
+  \entry{WebMD}{online}{}
+    \name{author}{1}{}{%
+      {{hash=W}{%
+         family={{WebMD}},
+         familyi={W\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{W1}
+    \strng{fullhash}{W1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \field{note}{Accessed: 2024-10-20}
+    \field{title}{Auditory Processing Disorder (APD) Overview}
+    \verb{url}
+    \verb https://www.webmd.com/brain/auditory-processing-disorder
+    \endverb
+    \field{year}{2023}
+  \endentry
+
+  \entry{dyslexiaStatistics}{online}{}
     \name{author}{1}{}{%
       {{hash=ZS}{%
          family={Zauderer},
