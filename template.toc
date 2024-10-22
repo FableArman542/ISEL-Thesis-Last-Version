@@ -44,13 +44,13 @@
 \contentsline {paragraph}{Goals}{16}{section*.29}%
 \contentsline {paragraph}{Psycographics}{17}{section*.30}%
 \contentsline {paragraph}{Problems}{17}{section*.31}%
-\contentsline {paragraph}{Characteristics}{18}{section*.32}%
+\contentsline {paragraph}{Characteristics}{17}{section*.32}%
 \contentsline {paragraph}{Needs}{18}{section*.33}%
 \contentsline {subsection}{\numberline {2.2.5}Dysgraphia}{20}{subsection.2.2.5}%
 \contentsline {paragraph}{Goals}{20}{section*.35}%
 \contentsline {paragraph}{Psychographics}{21}{section*.36}%
 \contentsline {paragraph}{Problems}{21}{section*.37}%
-\contentsline {paragraph}{Characteristics}{22}{section*.38}%
+\contentsline {paragraph}{Characteristics}{21}{section*.38}%
 \contentsline {paragraph}{Needs}{22}{section*.39}%
 \contentsline {subsection}{\numberline {2.2.6}Auditory Processing Disorder}{23}{subsection.2.2.6}%
 \contentsline {paragraph}{Goals}{23}{section*.41}%

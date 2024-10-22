@@ -1,5 +1,5 @@
 % $ biblatex auxiliary file $
-% $ biblatex bbl format version 3.2 $
+% $ biblatex bbl format version 3.3 $
 % Do not modify the above lines!
 %
 % This is an auxiliary file used by the 'biblatex' package.
@@ -16,8 +16,36 @@
   {}
 \endgroup
 
-\datalist[entry]{nyt/global//global/global}
-  \entry{dyslexiaCharAndSigns}{online}{}
+\datalist[entry]{nyt/global//global/global/global}
+  \entry{nationalLibraryMedicine}{online}{}{}
+    \name{author}{2}{}{%
+      {{hash=BE}{%
+         family={Bloom},
+         familyi={B\bibinitperiod},
+         given={Elana},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=HN}{%
+         family={Heath},
+         familyi={H\bibinitperiod},
+         given={Nancy},
+         giveni={N\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BEHN1}
+    \strng{fullhash}{BEHN1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{title}{Recognition, expression, and understanding facial expressions of emotion in adolescents with nonverbal and general learning disabilities}
+    \verb{url}
+    \verb https://pubmed.ncbi.nlm.nih.gov/19843659/
+    \endverb
+    \field{year}{2009}
+  \endentry
+
+  \entry{dyslexiaCharAndSigns}{online}{}{}
     \field{labeltitlesource}{title}
     \field{sortinit}{C}
     \field{sortinithash}{C}
@@ -29,7 +57,7 @@
     \field{year}{2023}
   \endentry
 
-  \entry{ChildDevelopment}{online}{}
+  \entry{ChildDevelopment}{online}{}{}
     \name{author}{1}{}{%
       {{hash=C}{%
          family={{Child Development Australia}},
@@ -50,7 +78,7 @@
     \field{year}{2023}
   \endentry
 
-  \entry{cleveland_dysgraphia}{misc}{}
+  \entry{cleveland_dysgraphia}{misc}{}{}
     \name{author}{1}{}{%
       {{hash=CC}{%
          family={Clinic},
@@ -73,7 +101,7 @@
     \field{year}{2023}
   \endentry
 
-  \entry{clevelandclinic2024}{online}{}
+  \entry{clevelandclinic2024}{online}{}{}
     \name{author}{1}{}{%
       {{hash=CC}{%
          family={Clinic},
@@ -95,7 +123,7 @@
     \field{year}{2024}
   \endentry
 
-  \entry{edutopia_dysgraphia}{misc}{}
+  \entry{edutopia_dysgraphia}{misc}{}{}
     \name{author}{1}{}{%
       {{hash=E}{%
          family={Edutopia},
@@ -117,7 +145,7 @@
     \field{year}{2023}
   \endentry
 
-  \entry{figma}{online}{}
+  \entry{figma}{online}{}{}
     \name{author}{1}{}{%
       {{hash=F}{%
          family={Figma},
@@ -138,7 +166,7 @@
     \field{year}{n.d.}
   \endentry
 
-  \entry{observer}{online}{}
+  \entry{observer}{online}{}{}
     \name{author}{1}{}{%
       {{hash=GR}{%
          family={Guru},
@@ -161,7 +189,7 @@
     \field{year}{n.d.}
   \endentry
 
-  \entry{singleton}{online}{}
+  \entry{singleton}{online}{}{}
     \name{author}{1}{}{%
       {{hash=GR}{%
          family={Guru},
@@ -184,7 +212,7 @@
     \field{year}{n.d.}
   \endentry
 
-  \entry{HearingHealth}{online}{}
+  \entry{HearingHealth}{online}{}{}
     \name{author}{1}{}{%
       {{hash=H}{%
          family={{Hearing Health Foundation}},
@@ -205,7 +233,7 @@
     \field{year}{2022}
   \endentry
 
-  \entry{understood_nvld_adult_2024}{online}{}
+  \entry{understood_nvld_adult_2024}{online}{}{}
     \name{author}{1}{}{%
       {{hash=HM}{%
          family={Hearst},
@@ -228,7 +256,7 @@
     \field{year}{2024}
   \endentry
 
-  \entry{adobeGuidelines}{online}{}
+  \entry{adobeGuidelines}{online}{}{}
     \name{author}{1}{}{%
       {{hash=IA}{%
          family={Inc.},
@@ -251,7 +279,7 @@
     \field{year}{2024}
   \endentry
 
-  \entry{jama_nvld_2024}{article}{}
+  \entry{jama_nvld_2024}{article}{}{}
     \name{author}{1}{}{%
       {{hash=oJaA}{%
          prefix={of},
@@ -275,7 +303,7 @@
     \field{year}{2024}
   \endentry
 
-  \entry{understood_accommodations_2024}{online}{}
+  \entry{understood_accommodations_2024}{online}{}{}
     \name{author}{1}{}{%
       {{hash=KK}{%
          family={Kelly},
@@ -298,7 +326,7 @@
     \field{year}{2024}
   \endentry
 
-  \entry{KidsHealth}{online}{}
+  \entry{KidsHealth}{online}{}{}
     \name{author}{1}{}{%
       {{hash=K}{%
          family={{KidsHealth}},
@@ -319,7 +347,7 @@
     \field{year}{2023}
   \endentry
 
-  \entry{gemlearningFastFor}{online}{}
+  \entry{gemlearningFastFor}{online}{}{}
     \name{author}{1}{}{%
       {{hash=LG}{%
          family={Learning},
@@ -341,7 +369,7 @@
     \field{year}{2023}
   \endentry
 
-  \entry{additude}{online}{}
+  \entry{additude}{online}{}{}
     \name{author}{1}{}{%
       {{hash=MA}{%
          family={Magazine},
@@ -364,7 +392,7 @@
     \field{year}{2024}
   \endentry
 
-  \entry{dyslexiaUnderstanding}{online}{}
+  \entry{dyslexiaUnderstanding}{online}{}{}
     \name{author}{1}{}{%
       {{hash=MK}{%
          family={Martinelli},
@@ -387,7 +415,7 @@
     \field{year}{2023}
   \endentry
 
-  \entry{Nationwide}{online}{}
+  \entry{Nationwide}{online}{}{}
     \name{author}{1}{}{%
       {{hash=N}{%
          family={{Nationwide Children's Hospital}},
@@ -409,7 +437,7 @@
     \field{year}{2023}
   \endentry
 
-  \entry{gblProsCons}{online}{}
+  \entry{gblProsCons}{online}{}{}
     \name{author}{1}{}{%
       {{hash=NJ}{%
          family={Nisbet},
@@ -432,7 +460,7 @@
     \field{year}{2023}
   \endentry
 
-  \entry{pmc2024}{article}{}
+  \entry{pmc2024}{article}{}{}
     \name{author}{1}{}{%
       {{hash=oPaA}{%
          prefix={of},
@@ -456,7 +484,7 @@
     \field{year}{2024}
   \endentry
 
-  \entry{PorterAcademy}{online}{}
+  \entry{PorterAcademy}{online}{}{}
     \name{author}{1}{}{%
       {{hash=P}{%
          family={{Porter Academy}},
@@ -477,30 +505,7 @@
     \field{year}{2023}
   \endentry
 
-  \entry{gow}{online}{}
-    \name{author}{1}{}{%
-      {{hash=SG}{%
-         family={School},
-         familyi={S\bibinitperiod},
-         given={Gow},
-         giveni={G\bibinitperiod},
-      }}%
-    }
-    \strng{namehash}{SG1}
-    \strng{fullhash}{SG1}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
-    \field{sortinit}{S}
-    \field{sortinithash}{S}
-    \field{title}{Diagnosis of Language-Based Learning Disability: What to Do Next}
-    \verb{url}
-    \verb https://www.gow.org/about/blog/diagnosis-of-language-based-learning-d
-    \verb isability-what-to-do-next
-    \endverb
-    \field{year}{2024}
-  \endentry
-
-  \entry{ScienceDaily}{online}{}
+  \entry{ScienceDaily}{online}{}{}
     \name{author}{1}{}{%
       {{hash=S}{%
          family={{ScienceDaily}},
@@ -521,7 +526,7 @@
     \field{year}{2020}
   \endentry
 
-  \entry{greatspeech}{online}{}
+  \entry{greatspeech}{online}{}{}
     \name{author}{1}{}{%
       {{hash=SG}{%
          family={Speech},
@@ -530,8 +535,8 @@
          giveni={G\bibinitperiod},
       }}%
     }
-    \strng{namehash}{SG2}
-    \strng{fullhash}{SG2}
+    \strng{namehash}{SG1}
+    \strng{fullhash}{SG1}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{sortinit}{S}
@@ -543,7 +548,7 @@
     \field{year}{2024}
   \endentry
 
-  \entry{Speechify}{online}{}
+  \entry{Speechify}{online}{}{}
     \name{author}{1}{}{%
       {{hash=S}{%
          family={{Speechify}},
@@ -566,7 +571,7 @@
     \field{year}{2023}
   \endentry
 
-  \entry{dyslexiaClinic}{online}{}
+  \entry{dyslexiaClinic}{online}{}{}
     \name{author}{1}{}{%
       {{hash=SMC}{%
          family={Staff},
@@ -590,7 +595,7 @@
     \field{year}{2022}
   \endentry
 
-  \entry{understood2024}{online}{}
+  \entry{understood2024}{online}{}{}
     \name{author}{1}{}{%
       {{hash=TTU}{%
          family={Team},
@@ -612,7 +617,7 @@
     \field{year}{2024}
   \endentry
 
-  \entry{understood_nvld_2024}{online}{}
+  \entry{understood_nvld_2024}{online}{}{}
     \name{author}{1}{}{%
       {{hash=TTU}{%
          family={Team},
@@ -635,7 +640,7 @@
     \field{year}{2024}
   \endentry
 
-  \entry{unityDocMonoBehaviour}{online}{}
+  \entry{unityDocMonoBehaviour}{online}{}{}
     \name{author}{1}{}{%
       {{hash=TU}{%
          family={Technologies},
@@ -658,7 +663,7 @@
     \field{year}{2023}
   \endentry
 
-  \entry{unityDocScriptableObj}{online}{}
+  \entry{unityDocScriptableObj}{online}{}{}
     \name{author}{1}{}{%
       {{hash=TU}{%
          family={Technologies},
@@ -681,7 +686,7 @@
     \field{year}{2023}
   \endentry
 
-  \entry{unityDocEvent}{online}{}
+  \entry{unityDocEvent}{online}{}{}
     \name{author}{1}{}{%
       {{hash=TU}{%
          family={Technologies},
@@ -704,7 +709,7 @@
     \field{year}{2024}
   \endentry
 
-  \entry{understood_accommodations}{misc}{}
+  \entry{understood_accommodations}{misc}{}{}
     \name{author}{1}{}{%
       {{hash=U}{%
          family={Understood},
@@ -726,7 +731,7 @@
     \field{year}{2023}
   \endentry
 
-  \entry{vanderbilt}{online}{}
+  \entry{vanderbilt}{online}{}{}
     \name{author}{1}{}{%
       {{hash=UV}{%
          family={University},
@@ -750,7 +755,7 @@
     \field{year}{2024}
   \endentry
 
-  \entry{pmc_dysgraphia}{article}{}
+  \entry{pmc_dysgraphia}{article}{}{}
     \name{author}{1}{}{%
       {{hash=UA}{%
          family={Unknown},
@@ -774,7 +779,7 @@
     \field{year}{2023}
   \endentry
 
-  \entry{WebMD}{online}{}
+  \entry{WebMD}{online}{}{}
     \name{author}{1}{}{%
       {{hash=W}{%
          family={{WebMD}},
@@ -795,7 +800,7 @@
     \field{year}{2023}
   \endentry
 
-  \entry{dyslexiaStatistics}{online}{}
+  \entry{dyslexiaStatistics}{online}{}{}
     \name{author}{1}{}{%
       {{hash=ZS}{%
          family={Zauderer},
