@@ -154,7 +154,7 @@
   \OR\equal{\iselthesis@opt@docdegree}{mscprep}}%
     {
 	  \fontseries{mc}\fontsize{13}{13}\selectfont%
-        (Grau de \thedocauthor(degree,\iselthesis@opt@coverlang))%
+        (\thedocauthor(degree,\iselthesis@opt@coverlang))%
     }	
 {}
 }(cover) 
@@ -250,7 +250,7 @@
   \OR\equal{\iselthesis@opt@docdegree}{mscprep}}%
     {
 	  \fontseries{mc}\fontsize{13}{13}\selectfont%
-        (Grau de \thedocauthor(degree,\iselthesis@opt@coverlang))%
+        (\thedocauthor(degree,\iselthesis@opt@coverlang))%
     }	
 {}
 }(secondcover)  

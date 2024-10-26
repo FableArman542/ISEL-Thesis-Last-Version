@@ -29,8 +29,7 @@
 \doctypestr(mscprep,project,pt):={Trabalho de Projeto}
 
 % Committee fields
-% TODO: TROCARRR \committeetitlestr(pt):={Júri}
-\committeetitlestr(pt):={}
+\committeetitlestr(pt):={Júri}
 \committeestr(c,1,m,pt):={Presidente}
 \committeestr(c,1,f,pt):={Presidente}
 \committeestr(c,2,m,pt):={Presidentes}

@@ -29,35 +29,35 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated field_info (elt_size=4) to 10180 items from 5000.
 Database file #1: template-blx.bib
 Database file #2: Bibliography/bibliography.bib
-Biblatex version: 3.20
+Biblatex version: 3.19
 Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 You've used 37 entries,
-            6402 wiz_defined-function locations,
-            1377 strings with 14519 characters,
-and the built_in function-call counts, 153830 in all, are:
+            6399 wiz_defined-function locations,
+            1377 strings with 14512 characters,
+and the built_in function-call counts, 153650 in all, are:
 = -- 9526
 > -- 2988
 < -- 897
 + -- 3049
 - -- 1024
-* -- 10181
+* -- 10145
 := -- 14344
 add.period$ -- 0
 call.type$ -- 37
 change.case$ -- 320
 chr.to.int$ -- 86
 cite$ -- 72
-duplicate$ -- 17163
-empty$ -- 15457
+duplicate$ -- 17127
+empty$ -- 15421
 format.name$ -- 1692
-if$ -- 32680
+if$ -- 32644
 int.to.chr$ -- 0
 int.to.str$ -- 83
 missing$ -- 0
 newline$ -- 826
 num.names$ -- 1471
-pop$ -- 12050
+pop$ -- 12014
 preamble$ -- 1
 purify$ -- 392
 quote$ -- 0

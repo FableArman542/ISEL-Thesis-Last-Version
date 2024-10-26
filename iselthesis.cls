@@ -1039,7 +1039,7 @@
 
 \newcommand{\addbibfile}[1]{\addbibresource{Bibliography/#1}}
 
-\newcommand{\printbib}{\printbibliography}
+\newcommand{\printbib}{\printbibliography[title={References}]}
 
 % --------------------------------------------------------
 % %% Dedicatory
