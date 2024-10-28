@@ -119,9 +119,11 @@
 \contentsline {paragraph}{Feedback}{63}{section*.105}%
 \contentsline {subsection}{\numberline {5.2.1}Maze Game Results}{64}{subsection.5.2.1}%
 \contentsline {subsection}{\numberline {5.2.2}Puzzle Game Results}{65}{subsection.5.2.2}%
-\contentsline {subsection}{\numberline {5.2.3}Hearts Game Results}{65}{subsection.5.2.3}%
-\contentsline {subsection}{\numberline {5.2.4}Discussion}{66}{subsection.5.2.4}%
-\contentsline {chapter}{\chapternumberline {6}Conclusions}{67}{chapter.6}%
-\contentsline {section}{\numberline {6.1}Summary of the work}{68}{section.6.1}%
-\contentsline {section}{\numberline {6.2}Conclusions and future work}{69}{section.6.2}%
-\contentsline {chapter}{References}{71}{section*.109}%
+\contentsline {subsection}{\numberline {5.2.3}Hearts Game Results}{66}{subsection.5.2.3}%
+\contentsline {subsection}{\numberline {5.2.4}Words Game Results}{67}{subsection.5.2.4}%
+\contentsline {subsection}{\numberline {5.2.5}Sounds Game results}{68}{subsection.5.2.5}%
+\contentsline {subsection}{\numberline {5.2.6}Discussion}{69}{subsection.5.2.6}%
+\contentsline {chapter}{\chapternumberline {6}Conclusions}{71}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Summary of the work}{72}{section.6.1}%
+\contentsline {section}{\numberline {6.2}Conclusions and future work}{73}{section.6.2}%
+\contentsline {chapter}{References}{75}{section*.109}%

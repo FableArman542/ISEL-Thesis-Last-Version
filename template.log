@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.10.19)  26 OCT 2024 19:47
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.10.19)  27 OCT 2024 19:42
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1895,26 +1895,17 @@ LaTeX Font Warning: Font shape `T1/cmr/m/n' in size <13> not available
 
 {/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc} <./Logo/logoisel.pdf>] [2
 
-] (./Chapters/dedicatory.tex
-Underfull \hbox (badness 10000) in paragraph at lines 8--8
-
- []
-
-[3
-
-
-] [4
-
-]) (./Chapters/acknowledgements.tex
+] (./Chapters/dedicatory.tex) (./Chapters/acknowledgements.tex
 Overfull \hbox (6.0pt too wide) in paragraph at lines 8--8
 [][]  
  []
 
-) [5
+) [3
 
-] [6
 
-] (./Chapters/statement.tex) [7] [8
+] [4
+
+] (./Chapters/statement.tex) [5] [6
 
 ]
 Overfull \hbox (6.0pt too wide) in paragraph at lines 124--124
@@ -1926,9 +1917,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 124--9
 
  []
 
-) [9
+) [7
 
-] [10
+] [8
 
 ]
 Overfull \hbox (6.0pt too wide) in paragraph at lines 124--124
@@ -1940,16 +1931,16 @@ Underfull \hbox (badness 10000) in paragraph at lines 124--9
 
  []
 
-) [11
+) [9
 
-] [12
+] [10
 
 ]
 Overfull \hbox (6.0pt too wide) in paragraph at lines 125--125
 [][] 
  []
 
-(./template.toc [13]) [14] (./Chapters/chapter1.tex
+(./template.toc [11]) [12] (./Chapters/chapter1.tex
 Underfull \vbox (badness 2486) has occurred while \output is active []
 
  [1
@@ -1968,7 +1959,7 @@ Underfull \vbox (badness 2486) has occurred while \output is active []
 \openout2 = `Chapters/StateOfArt/Dyslexia.aux'.
 
  (./Chapters/StateOfArt/Dyslexia.tex
-<Chapters/figma/Dislexia.png, id=222, 1467.4825pt x 1164.35pt>
+<Chapters/figma/Dislexia.png, id=216, 1467.4825pt x 1164.35pt>
 File: Chapters/figma/Dislexia.png Graphic file (type png)
 <use Chapters/figma/Dislexia.png>
 Package pdftex.def Info: Chapters/figma/Dislexia.png  used on input line 6.
@@ -1987,7 +1978,7 @@ Package microtype Warning: I cannot find a spacing list for font
 \openout2 = `Chapters/StateOfArt/LPD.aux'.
 
  (./Chapters/StateOfArt/LPD.tex
-<Chapters/figma/Language Processing Disorder.png, id=273, 1467.4825pt x 1164.35pt>
+<Chapters/figma/Language Processing Disorder.png, id=269, 1467.4825pt x 1164.35pt>
 File: Chapters/figma/Language Processing Disorder.png Graphic file (type png)
 <use Chapters/figma/Language Processing Disorder.png>
 Package pdftex.def Info: Chapters/figma/Language Processing Disorder.png  used on input line 6.
@@ -2000,7 +1991,7 @@ Package pdftex.def Info: Chapters/figma/Language Processing Disorder.png  used o
 \openout2 = `Chapters/StateOfArt/Discalculia.aux'.
 
  (./Chapters/StateOfArt/Discalculia.tex
-<Chapters/figma/Discalculia.png, id=319, 1467.4825pt x 1164.35pt>
+<Chapters/figma/Discalculia.png, id=314, 1467.4825pt x 1164.35pt>
 File: Chapters/figma/Discalculia.png Graphic file (type png)
 <use Chapters/figma/Discalculia.png>
 Package pdftex.def Info: Chapters/figma/Discalculia.png  used on input line 7.
@@ -2013,7 +2004,7 @@ Package pdftex.def Info: Chapters/figma/Discalculia.png  used on input line 7.
 \openout2 = `Chapters/StateOfArt/NonVerbalLD.aux'.
 
  (./Chapters/StateOfArt/NonVerbalLD.tex
-<Chapters/figma/Non-Verbal Learning Disabilities.png, id=365, 1467.4825pt x 1164.35pt>
+<Chapters/figma/Non-Verbal Learning Disabilities.png, id=361, 1467.4825pt x 1164.35pt>
 File: Chapters/figma/Non-Verbal Learning Disabilities.png Graphic file (type png)
 <use Chapters/figma/Non-Verbal Learning Disabilities.png>
 Package pdftex.def Info: Chapters/figma/Non-Verbal Learning Disabilities.png  used on input line 6.
@@ -2031,7 +2022,7 @@ Overfull \hbox (5.84523pt too wide) in paragraph at lines 26--27
 \openout2 = `Chapters/StateOfArt/Disgraphia.aux'.
 
  (./Chapters/StateOfArt/Disgraphia.tex
-<Chapters/figma/Disgrafia.png, id=421, 1467.4825pt x 1164.35pt>
+<Chapters/figma/Disgrafia.png, id=417, 1467.4825pt x 1164.35pt>
 File: Chapters/figma/Disgrafia.png Graphic file (type png)
 <use Chapters/figma/Disgrafia.png>
 Package pdftex.def Info: Chapters/figma/Disgrafia.png  used on input line 6.
@@ -2044,7 +2035,7 @@ Package pdftex.def Info: Chapters/figma/Disgrafia.png  used on input line 6.
 \openout2 = `Chapters/StateOfArt/APD.aux'.
 
  (./Chapters/StateOfArt/APD.tex
-<Chapters/figma/Auditory Processing Disorder.png, id=466, 1467.4825pt x 1164.35pt>
+<Chapters/figma/Auditory Processing Disorder.png, id=462, 1467.4825pt x 1164.35pt>
 File: Chapters/figma/Auditory Processing Disorder.png Graphic file (type png)
 <use Chapters/figma/Auditory Processing Disorder.png>
 Package pdftex.def Info: Chapters/figma/Auditory Processing Disorder.png  used on input line 6.
@@ -2057,7 +2048,7 @@ Package pdftex.def Info: Chapters/figma/Auditory Processing Disorder.png  used o
 \openout2 = `Chapters/StateOfArt/VisualMotorDeficit.aux'.
 
  (./Chapters/StateOfArt/VisualMotorDeficit.tex
-<Chapters/figma/Visual Motor Deficit.png, id=519, 1467.4825pt x 1164.35pt>
+<Chapters/figma/Visual Motor Deficit.png, id=515, 1467.4825pt x 1164.35pt>
 File: Chapters/figma/Visual Motor Deficit.png Graphic file (type png)
 <use Chapters/figma/Visual Motor Deficit.png>
 Package pdftex.def Info: Chapters/figma/Visual Motor Deficit.png  used on input line 6.
@@ -2070,7 +2061,7 @@ Package pdftex.def Info: Chapters/figma/Visual Motor Deficit.png  used on input 
 \openout2 = `Chapters/sections/games_for_disabilities.aux'.
 
  (./Chapters/sections/games_for_disabilities.tex
-<Chapters/related_work_img/FastForWord_Cosmic_Reader.jpg, id=570, 702.625pt x 526.96875pt>
+<Chapters/related_work_img/FastForWord_Cosmic_Reader.jpg, id=565, 702.625pt x 526.96875pt>
 File: Chapters/related_work_img/FastForWord_Cosmic_Reader.jpg Graphic file (type jpg)
 <use Chapters/related_work_img/FastForWord_Cosmic_Reader.jpg>
 Package pdftex.def Info: Chapters/related_work_img/FastForWord_Cosmic_Reader.jpg  used on input line 17.
@@ -2085,7 +2076,7 @@ Package pdftex.def Info: Chapters/related_work_img/FastForWord_Cosmic_Reader.jpg
 
 
 ]
-<Chapters/gameplay/HeartsGame.png, id=583, 1042.89626pt x 586.19pt>
+<Chapters/gameplay/HeartsGame.png, id=579, 1042.89626pt x 586.19pt>
 File: Chapters/gameplay/HeartsGame.png Graphic file (type png)
 <use Chapters/gameplay/HeartsGame.png>
 Package pdftex.def Info: Chapters/gameplay/HeartsGame.png  used on input line 65.
@@ -2096,25 +2087,25 @@ Overfull \hbox (43.29898pt too wide) in paragraph at lines 65--66
  []
 
 [32] [33 <./Chapters/gameplay/HeartsGame.png>]
-<Chapters/gameplay/MazeGame.jpg, id=600, 933.4875pt x 523.9575pt>
+<Chapters/gameplay/MazeGame.jpg, id=596, 933.4875pt x 523.9575pt>
 File: Chapters/gameplay/MazeGame.jpg Graphic file (type jpg)
 <use Chapters/gameplay/MazeGame.jpg>
 Package pdftex.def Info: Chapters/gameplay/MazeGame.jpg  used on input line 101.
 (pdftex.def)             Requested size: 420.06549pt x 235.77869pt.
  [34] [35 <./Chapters/gameplay/MazeGame.jpg>]
-<Chapters/gameplay/SoundsGame.jpg, id=617, 931.48pt x 524.96124pt>
+<Chapters/gameplay/SoundsGame.jpg, id=612, 931.48pt x 524.96124pt>
 File: Chapters/gameplay/SoundsGame.jpg Graphic file (type jpg)
 <use Chapters/gameplay/SoundsGame.jpg>
 Package pdftex.def Info: Chapters/gameplay/SoundsGame.jpg  used on input line 137.
 (pdftex.def)             Requested size: 419.16212pt x 236.23038pt.
  [36] [37 <./Chapters/gameplay/SoundsGame.jpg>]
-<Chapters/gameplay/WordsGame.jpg, id=632, 713.66624pt x 405.515pt>
+<Chapters/gameplay/WordsGame.jpg, id=628, 713.66624pt x 405.515pt>
 File: Chapters/gameplay/WordsGame.jpg Graphic file (type jpg)
 <use Chapters/gameplay/WordsGame.jpg>
 Package pdftex.def Info: Chapters/gameplay/WordsGame.jpg  used on input line 171.
 (pdftex.def)             Requested size: 321.14684pt x 182.48006pt.
  [38 <./Chapters/gameplay/WordsGame.jpg>]
-<Chapters/gameplay/PuzzleGame.jpg, id=643, 769.87625pt x 431.6125pt>
+<Chapters/gameplay/PuzzleGame.jpg, id=639, 769.87625pt x 431.6125pt>
 File: Chapters/gameplay/PuzzleGame.jpg Graphic file (type jpg)
 <use Chapters/gameplay/PuzzleGame.jpg>
 Package pdftex.def Info: Chapters/gameplay/PuzzleGame.jpg  used on input line 209.
@@ -2123,59 +2114,59 @@ Package pdftex.def Info: Chapters/gameplay/PuzzleGame.jpg  used on input line 20
 
 
 ] [42]
-<Chapters/figma/home-wireframe.png, id=674, 3854.4pt x 2168.1pt>
+<Chapters/figma/home-wireframe.png, id=669, 3854.4pt x 2168.1pt>
 File: Chapters/figma/home-wireframe.png Graphic file (type png)
 <use Chapters/figma/home-wireframe.png>
 Package pdftex.def Info: Chapters/figma/home-wireframe.png  used on input line 70.
 (pdftex.def)             Requested size: 191.6987pt x 107.81586pt.
-<Chapters/figma/levels-wireframe.png, id=675, 3854.4pt x 2168.1pt>
+<Chapters/figma/levels-wireframe.png, id=670, 3854.4pt x 2168.1pt>
 File: Chapters/figma/levels-wireframe.png Graphic file (type png)
 <use Chapters/figma/levels-wireframe.png>
 Package pdftex.def Info: Chapters/figma/levels-wireframe.png  used on input line 77.
 (pdftex.def)             Requested size: 191.6987pt x 107.81586pt.
  [43 <./Chapters/figma/home-wireframe.png> <./Chapters/figma/levels-wireframe.png>] [44] [45] [46]
-<Chapters/arq/class__minigames__minigames.jpg, id=711, 488.82625pt x 503.8825pt>
+<Chapters/arq/class__minigames__minigames.jpg, id=707, 488.82625pt x 503.8825pt>
 File: Chapters/arq/class__minigames__minigames.jpg Graphic file (type jpg)
 <use Chapters/arq/class__minigames__minigames.jpg>
 Package pdftex.def Info: Chapters/arq/class__minigames__minigames.jpg  used on input line 168.
 (pdftex.def)             Requested size: 244.41252pt x 251.94063pt.
  [47 <./Chapters/arq/class__minigames__minigames.jpg>] [48]
-<Chapters/new_architechture/class__handlers__Handlers.jpg, id=730, 1283.79625pt x 710.655pt>
+<Chapters/new_architechture/class__handlers__Handlers.jpg, id=725, 1283.79625pt x 710.655pt>
 File: Chapters/new_architechture/class__handlers__Handlers.jpg Graphic file (type jpg)
 <use Chapters/new_architechture/class__handlers__Handlers.jpg>
 Package pdftex.def Info: Chapters/new_architechture/class__handlers__Handlers.jpg  used on input line 229.
 (pdftex.def)             Requested size: 426.0pt x 235.80727pt.
-<Chapters/new_architechture/class__common__Common.jpg, id=732, 631.35875pt x 411.5375pt>
+<Chapters/new_architechture/class__common__Common.jpg, id=727, 631.35875pt x 411.5375pt>
 File: Chapters/new_architechture/class__common__Common.jpg Graphic file (type jpg)
 <use Chapters/new_architechture/class__common__Common.jpg>
 Package pdftex.def Info: Chapters/new_architechture/class__common__Common.jpg  used on input line 250.
 (pdftex.def)             Requested size: 255.6026pt x 166.60898pt.
  [49 <./Chapters/new_architechture/class__handlers__Handlers.jpg>] [50 <./Chapters/new_architechture/class__common__Common.jpg>]
-<Chapters/new_architechture/class__hearts__HeartsGame.jpg, id=747, 1507.6325pt x 1031.855pt>
+<Chapters/new_architechture/class__hearts__HeartsGame.jpg, id=743, 1507.6325pt x 1031.855pt>
 File: Chapters/new_architechture/class__hearts__HeartsGame.jpg Graphic file (type jpg)
 <use Chapters/new_architechture/class__hearts__HeartsGame.jpg>
 Package pdftex.def Info: Chapters/new_architechture/class__hearts__HeartsGame.jpg  used on input line 285.
 (pdftex.def)             Requested size: 426.0pt x 291.56256pt.
  [51] [52 <./Chapters/new_architechture/class__hearts__HeartsGame.jpg>]
-<Chapters/new_architechture/class__maze__MazeGame.jpg, id=757, 1717.41624pt x 1186.4325pt>
+<Chapters/new_architechture/class__maze__MazeGame.jpg, id=753, 1717.41624pt x 1186.4325pt>
 File: Chapters/new_architechture/class__maze__MazeGame.jpg Graphic file (type jpg)
 <use Chapters/new_architechture/class__maze__MazeGame.jpg>
 Package pdftex.def Info: Chapters/new_architechture/class__maze__MazeGame.jpg  used on input line 297.
 (pdftex.def)             Requested size: 426.0pt x 294.29015pt.
  [53 <./Chapters/new_architechture/class__maze__MazeGame.jpg>]
-<Chapters/new_architechture/class__sounds__SoundsGame.jpg, id=764, 1428.33624pt x 947.54pt>
+<Chapters/new_architechture/class__sounds__SoundsGame.jpg, id=759, 1428.33624pt x 947.54pt>
 File: Chapters/new_architechture/class__sounds__SoundsGame.jpg Graphic file (type jpg)
 <use Chapters/new_architechture/class__sounds__SoundsGame.jpg>
 Package pdftex.def Info: Chapters/new_architechture/class__sounds__SoundsGame.jpg  used on input line 319.
 (pdftex.def)             Requested size: 426.0pt x 282.60149pt.
  [54 <./Chapters/new_architechture/class__sounds__SoundsGame.jpg>] [55]
-<Chapters/new_architechture/class__words__WordsGame.jpg, id=774, 1054.94125pt x 990.70125pt>
+<Chapters/new_architechture/class__words__WordsGame.jpg, id=770, 1054.94125pt x 990.70125pt>
 File: Chapters/new_architechture/class__words__WordsGame.jpg Graphic file (type jpg)
 <use Chapters/new_architechture/class__words__WordsGame.jpg>
 Package pdftex.def Info: Chapters/new_architechture/class__words__WordsGame.jpg  used on input line 345.
 (pdftex.def)             Requested size: 426.0pt x 400.0527pt.
  [56 <./Chapters/new_architechture/class__words__WordsGame.jpg>] [57]
-<Chapters/new_architechture/class__puzzle__PuzzleGame.jpg, id=784, 1130.2225pt x 1150.2975pt>
+<Chapters/new_architechture/class__puzzle__PuzzleGame.jpg, id=780, 1130.2225pt x 1150.2975pt>
 File: Chapters/new_architechture/class__puzzle__PuzzleGame.jpg Graphic file (type jpg)
 <use Chapters/new_architechture/class__puzzle__PuzzleGame.jpg>
 Package pdftex.def Info: Chapters/new_architechture/class__puzzle__PuzzleGame.jpg  used on input line 367.
@@ -2185,21 +2176,22 @@ Package pdftex.def Info: Chapters/new_architechture/class__puzzle__PuzzleGame.jp
 ] (./Chapters/chapter5.tex [61
 
 ] [62] [63] [64]
-<Chapters/game_changes/puzzle-game-frame.png, id=819, 172.39406pt x 178.41656pt>
+<Chapters/game_changes/puzzle-game-frame.png, id=815, 172.39406pt x 178.41656pt>
 File: Chapters/game_changes/puzzle-game-frame.png Graphic file (type png)
 <use Chapters/game_changes/puzzle-game-frame.png>
-Package pdftex.def Info: Chapters/game_changes/puzzle-game-frame.png  used on input line 81.
+Package pdftex.def Info: Chapters/game_changes/puzzle-game-frame.png  used on input line 90.
 (pdftex.def)             Requested size: 127.8013pt x 132.26575pt.
- [65 <./Chapters/game_changes/puzzle-game-frame.png>]
-<Chapters/game_changes/read-sound-icon.png, id=828, 79.79813pt x 78.2925pt>
+ [65 <./Chapters/game_changes/puzzle-game-frame.png>] [66] [67] [68]
+<Chapters/game_changes/read-sound-icon.png, id=837, 79.79813pt x 78.2925pt>
 File: Chapters/game_changes/read-sound-icon.png Graphic file (type png)
 <use Chapters/game_changes/read-sound-icon.png>
-Package pdftex.def Info: Chapters/game_changes/read-sound-icon.png  used on input line 110.
+Package pdftex.def Info: Chapters/game_changes/read-sound-icon.png  used on input line 186.
 (pdftex.def)             Requested size: 42.6026pt x 41.79825pt.
-) [66 <./Chapters/game_changes/read-sound-icon.png>] (./Chapters/chapter6.tex [67
+) [69 <./Chapters/game_changes/read-sound-icon.png>] [70
 
+] (./Chapters/chapter6.tex [71
 
-] [68]) [69] [70
+] [72]) [73] [74
 
 ]
 Overfull \hbox (6.0pt too wide) in paragraph at lines 131--131
@@ -2229,12 +2221,12 @@ Overfull \hbox (26.89998pt too wide) in paragraph at lines 131--131
 []\T1/cmr/m/n/10.95 (-10) C. Clinic. \T1/cmr/m/it/10.95 (-10) Dyscal-cu-lia: Symp-toms and Causes\T1/cmr/m/n/10.95 (-10) . 2024. \T1/cmr/m/sc/10.95/100ls (-10) url\T1/cmr/m/n/10.95 (-10) : [][]$\T1/cmtt/m/n/10.95 https : / / my . clevelandclinic .
  []
 
-[71] [72]
+[75] [76]
 Overfull \hbox (10.79279pt too wide) in paragraph at lines 131--131
 \T1/cmtt/m/n/10.95 understood . org / en / articles / understanding -[] nonverbal -[] learning -[] disabilities$[][]
  []
 
-[73] [74
+[77] [78
 
 ]
 
@@ -2242,7 +2234,7 @@ Package glossaries Warning: No \printnoidxglossary or \printnoidxglossaries
  found. (Remove \makenoidxglossaries if you don't want any glossaries.)
 This document will not have a glossary.
 
-[75]
+[79]
 \tf@toc=\write7
 \openout7 = `template.toc'.
 
@@ -2264,18 +2256,18 @@ Package logreq Info: Writing requests to 'template.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 58853 strings out of 474116
- 1138161 string characters out of 5743681
- 2208520 words of memory out of 5000000
+ 58857 strings out of 474116
+ 1138152 string characters out of 5743681
+ 2208514 words of memory out of 5000000
  79738 multiletter control sequences out of 15000+600000
  585266 words of font info for 176 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  137i,18n,138p,2459b,2539s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/hfbright/hfbr10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfbi1095.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfbx1095.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfcc1000.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfcc1095.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfti1095.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sftt1095.pfb>
-Output written on template.pdf (89 pages, 8528819 bytes).
+Output written on template.pdf (91 pages, 8537202 bytes).
 PDF statistics:
- 1251 PDF objects out of 1440 (max. 8388607)
- 1067 compressed objects within 11 object streams
- 276 named destinations out of 1000 (max. 500000)
- 48095 words of extra memory for PDF output out of 51595 (max. 10000000)
+ 1272 PDF objects out of 1440 (max. 8388607)
+ 1086 compressed objects within 11 object streams
+ 280 named destinations out of 1000 (max. 500000)
+ 48111 words of extra memory for PDF output out of 51595 (max. 10000000)
 
