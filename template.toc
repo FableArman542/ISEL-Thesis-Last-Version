@@ -73,35 +73,35 @@
 \contentsline {chapter}{\chapternumberline {3}Game Design and Mechanics}{29}{chapter.3}%
 \contentsline {section}{\numberline {3.1}Game 1 - Hearts}{30}{section.3.1}%
 \contentsline {section}{\numberline {3.2}Game 2 - Maze}{31}{section.3.2}%
-\contentsline {section}{\numberline {3.3}Game 3 - Sounds}{33}{section.3.3}%
-\contentsline {section}{\numberline {3.4}Game 4 - Words}{34}{section.3.4}%
-\contentsline {section}{\numberline {3.5}Game 5 - Puzzle}{36}{section.3.5}%
-\contentsline {chapter}{\chapternumberline {4}Game Development}{39}{chapter.4}%
-\contentsline {section}{\numberline {4.1}Design Principles and Accessibility Considerations}{40}{section.4.1}%
-\contentsline {section}{\numberline {4.2}Methodology, Tools, and Techniques}{41}{section.4.2}%
-\contentsline {section}{\numberline {4.3}Unity Components}{42}{section.4.3}%
-\contentsline {section}{\numberline {4.4}Architecture Overview}{43}{section.4.4}%
-\contentsline {paragraph}{\textit {GameHandling}}{45}{section*.78}%
-\contentsline {paragraph}{\textit {MenuHandling}}{45}{section*.79}%
-\contentsline {paragraph}{\textit {ScoreManager}}{45}{section*.80}%
-\contentsline {paragraph}{\textit {ScenesHandling}}{46}{section*.81}%
-\contentsline {paragraph}{Common}{46}{section*.83}%
-\contentsline {section}{\numberline {4.5}Game 1 - Hearts}{47}{section.4.5}%
-\contentsline {section}{\numberline {4.6}Game 2 - Maze}{48}{section.4.6}%
-\contentsline {section}{\numberline {4.7}Game 3 - Sounds}{50}{section.4.7}%
-\contentsline {section}{\numberline {4.8}Game 4 - Words}{51}{section.4.8}%
-\contentsline {section}{\numberline {4.9}Game 5 - Puzzle}{52}{section.4.9}%
-\contentsline {chapter}{\chapternumberline {5}Experimental Evaluation}{55}{chapter.5}%
-\contentsline {section}{\numberline {5.1}Evaluation process and limitations}{56}{section.5.1}%
-\contentsline {section}{\numberline {5.2}Results}{57}{section.5.2}%
-\contentsline {paragraph}{Gameplay}{57}{section*.90}%
-\contentsline {paragraph}{Feedback}{57}{section*.91}%
-\contentsline {subsection}{\numberline {5.2.1}Maze Game Results}{58}{subsection.5.2.1}%
-\contentsline {subsection}{\numberline {5.2.2}Puzzle Game Results}{59}{subsection.5.2.2}%
-\contentsline {subsection}{\numberline {5.2.3}Hearts Game Results}{60}{subsection.5.2.3}%
-\contentsline {subsection}{\numberline {5.2.4}Words Game Results}{61}{subsection.5.2.4}%
-\contentsline {subsection}{\numberline {5.2.5}Sounds Game Results}{62}{subsection.5.2.5}%
-\contentsline {subsection}{\numberline {5.2.6}Discussion}{63}{subsection.5.2.6}%
-\contentsline {chapter}{\chapternumberline {6}Conclusions}{65}{chapter.6}%
-\contentsline {section}{\numberline {6.1}Future work}{66}{section.6.1}%
-\contentsline {chapter}{References}{67}{section*.95}%
+\contentsline {section}{\numberline {3.3}Game 3 - Sounds}{34}{section.3.3}%
+\contentsline {section}{\numberline {3.4}Game 4 - Words}{35}{section.3.4}%
+\contentsline {section}{\numberline {3.5}Game 5 - Puzzle}{38}{section.3.5}%
+\contentsline {chapter}{\chapternumberline {4}Game Development}{41}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Design Principles and Accessibility Considerations}{42}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Methodology, Tools, and Techniques}{43}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Unity Components}{44}{section.4.3}%
+\contentsline {section}{\numberline {4.4}Architecture Overview}{45}{section.4.4}%
+\contentsline {paragraph}{\textit {GameHandling}}{47}{section*.83}%
+\contentsline {paragraph}{\textit {MenuHandling}}{47}{section*.84}%
+\contentsline {paragraph}{\textit {ScoreManager}}{47}{section*.85}%
+\contentsline {paragraph}{\textit {ScenesHandling}}{48}{section*.86}%
+\contentsline {paragraph}{Common}{48}{section*.88}%
+\contentsline {section}{\numberline {4.5}Game 1 - Hearts}{49}{section.4.5}%
+\contentsline {section}{\numberline {4.6}Game 2 - Maze}{50}{section.4.6}%
+\contentsline {section}{\numberline {4.7}Game 3 - Sounds}{52}{section.4.7}%
+\contentsline {section}{\numberline {4.8}Game 4 - Words}{53}{section.4.8}%
+\contentsline {section}{\numberline {4.9}Game 5 - Puzzle}{54}{section.4.9}%
+\contentsline {chapter}{\chapternumberline {5}Experimental Evaluation}{57}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Evaluation process and limitations}{58}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Results}{59}{section.5.2}%
+\contentsline {paragraph}{Gameplay}{59}{section*.95}%
+\contentsline {paragraph}{Feedback}{59}{section*.96}%
+\contentsline {subsection}{\numberline {5.2.1}Maze Game Results}{60}{subsection.5.2.1}%
+\contentsline {subsection}{\numberline {5.2.2}Puzzle Game Results}{61}{subsection.5.2.2}%
+\contentsline {subsection}{\numberline {5.2.3}Hearts Game Results}{62}{subsection.5.2.3}%
+\contentsline {subsection}{\numberline {5.2.4}Words Game Results}{63}{subsection.5.2.4}%
+\contentsline {subsection}{\numberline {5.2.5}Sounds Game Results}{64}{subsection.5.2.5}%
+\contentsline {subsection}{\numberline {5.2.6}Discussion}{65}{subsection.5.2.6}%
+\contentsline {chapter}{\chapternumberline {6}Conclusions}{67}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Future work}{68}{section.6.1}%
+\contentsline {chapter}{References}{69}{section*.100}%

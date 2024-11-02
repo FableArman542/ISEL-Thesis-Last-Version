@@ -22,23 +22,28 @@
 \contentsline {figure}{\numberline {2.7}{\ignorespaces Visual Motor Deficit User Profile}}{24}{figure.caption.49}%
 \contentsline {figure}{\numberline {2.8}{\ignorespaces Fast ForWord - Cosmic Reader}}{27}{figure.caption.56}%
 \addvspace {10pt}
-\contentsline {figure}{\numberline {3.1}{\ignorespaces Hearts Game - Gameplay}}{31}{figure.caption.59}%
-\contentsline {figure}{\numberline {3.2}{\ignorespaces Maze Game - Gameplay}}{32}{figure.caption.62}%
-\contentsline {figure}{\numberline {3.3}{\ignorespaces Sounds Game - Gameplay}}{34}{figure.caption.65}%
-\contentsline {figure}{\numberline {3.4}{\ignorespaces Words Game - Gameplay}}{35}{figure.caption.68}%
-\contentsline {figure}{\numberline {3.5}{\ignorespaces Puzzle Game - Gameplay}}{37}{figure.caption.71}%
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Hearts Game - Home}}{31}{figure.caption.59}%
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Hearts Game - Gameplay}}{31}{figure.caption.60}%
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Maze Game - Home}}{32}{figure.caption.63}%
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Maze Game - Gameplay}}{33}{figure.caption.64}%
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Sounds Game - Home}}{35}{figure.caption.67}%
+\contentsline {figure}{\numberline {3.6}{\ignorespaces Sounds Game - Gameplay}}{35}{figure.caption.68}%
+\contentsline {figure}{\numberline {3.7}{\ignorespaces Words Game - Home}}{36}{figure.caption.71}%
+\contentsline {figure}{\numberline {3.8}{\ignorespaces Words Game - Gameplay}}{37}{figure.caption.72}%
+\contentsline {figure}{\numberline {3.9}{\ignorespaces Puzzle Game - Home}}{39}{figure.caption.75}%
+\contentsline {figure}{\numberline {3.10}{\ignorespaces Puzzle Game - Gameplay}}{39}{figure.caption.76}%
 \addvspace {10pt}
-\contentsline {figure}{\numberline {4.1}{\ignorespaces Game Home Page Wireframe}}{41}{figure.caption.76}%
-\contentsline {figure}{\numberline {4.2}{\ignorespaces Levels Page Wireframe}}{41}{figure.caption.76}%
-\contentsline {figure}{\numberline {4.3}{\ignorespaces Overall Application Architecture}}{44}{figure.caption.77}%
-\contentsline {figure}{\numberline {4.4}{\ignorespaces Handlers Mechanism UML}}{46}{figure.caption.82}%
-\contentsline {figure}{\numberline {4.5}{\ignorespaces Common Package UML}}{47}{figure.caption.84}%
-\contentsline {figure}{\numberline {4.6}{\ignorespaces Hearts Game entities - UML}}{48}{figure.caption.85}%
-\contentsline {figure}{\numberline {4.7}{\ignorespaces Maze Game Entities - UML}}{49}{figure.caption.86}%
-\contentsline {figure}{\numberline {4.8}{\ignorespaces Sounds Game Entities - UML}}{50}{figure.caption.87}%
-\contentsline {figure}{\numberline {4.9}{\ignorespaces Words Game Entities - UML}}{51}{figure.caption.88}%
-\contentsline {figure}{\numberline {4.10}{\ignorespaces Puzzle Game Entities - UML}}{52}{figure.caption.89}%
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Game Home Page Wireframe}}{43}{figure.caption.81}%
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Levels Page Wireframe}}{43}{figure.caption.81}%
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Overall Application Architecture}}{46}{figure.caption.82}%
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Handlers Mechanism \gls {uml}}}{48}{figure.caption.87}%
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Common Package \gls {uml}}}{49}{figure.caption.89}%
+\contentsline {figure}{\numberline {4.6}{\ignorespaces Hearts Game entities - \gls {uml}}}{50}{figure.caption.90}%
+\contentsline {figure}{\numberline {4.7}{\ignorespaces Maze Game Entities - \gls {uml}}}{51}{figure.caption.91}%
+\contentsline {figure}{\numberline {4.8}{\ignorespaces Sounds Game Entities - \gls {uml}}}{52}{figure.caption.92}%
+\contentsline {figure}{\numberline {4.9}{\ignorespaces Words Game Entities - \gls {uml}}}{53}{figure.caption.93}%
+\contentsline {figure}{\numberline {4.10}{\ignorespaces Puzzle Game Entities - \gls {uml}}}{54}{figure.caption.94}%
 \addvspace {10pt}
-\contentsline {figure}{\numberline {5.1}{\ignorespaces Reference Image Frame}}{59}{figure.caption.92}%
-\contentsline {figure}{\numberline {5.2}{\ignorespaces Read out loudInstructions Button}}{63}{figure.caption.93}%
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Reference Image Frame}}{61}{figure.caption.97}%
+\contentsline {figure}{\numberline {5.2}{\ignorespaces Read out loudInstructions Button}}{65}{figure.caption.98}%
 \addvspace {10pt}

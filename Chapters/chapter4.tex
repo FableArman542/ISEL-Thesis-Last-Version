@@ -189,12 +189,12 @@ Because the `MenuHandling' and `ScoreManager' need to be accessed at any time fr
 
 \paragraph{\textit{ScenesHandling}} is a static data object that stores all the names of each mini-game as constants, removing ambiguity while navigating between scenes from anywhere.
 
-Figure \ref{fig:handlers} represents the complete architecture of this mechanism in Unified Modeling Language (UML).
+Figure \ref{fig:handlers} represents the complete architecture of this mechanism in \gls{uml}.
 
 \begin{figure}[H]
     \centering
     \includegraphics[width=\linewidth]{Chapters/new_architechture/class__handlers__Handlers.jpg}
-    \caption{Handlers Mechanism UML}
+    \caption{Handlers Mechanism \gls{uml}}
     \label{fig:handlers}
 \end{figure}
 
@@ -211,11 +211,11 @@ The `AudioSettings' behaviour handles the Audio Settings user interactions. It h
 
 The `SetScaleZero' is an object that helps the developer work on any UI component without having to worry about leaving everything as it was before. This class sets visible only the game start UI components, keeping all others hidden.
 
-Figure \ref{fig:common-classes} depicts the common package in UML.
+Figure \ref{fig:common-classes} depicts the common package in \gls{uml}.
 \begin{figure}[H]
     \centering
     \includegraphics[width=0.8\linewidth]{Chapters/new_architechture/class__common__Common.jpg}
-    \caption{Common Package UML}
+    \caption{Common Package \gls{uml}}
     \label{fig:common-classes}
 \end{figure}
 
@@ -245,24 +245,24 @@ Another problem to tackle is the random spawning of hearts. Any object to be ins
 
 Lastly, there is the `Bar' class used for handling the behaviour of the timer that advances according to the time boundaries of the game. This is done using \textit{LeanTween}, an extension of the Unity library that can be used to animate assets.
 
-The following UML diagram (Figure \ref{fig:heartsGameArq}) describes the Hearts game architecture.
+The following \gls{uml} diagram (Figure \ref{fig:heartsGameArq}) describes the Hearts game architecture.
 
 \begin{figure}[H]
     \centering
     \includegraphics[width=\linewidth]{Chapters/new_architechture/class__hearts__HeartsGame.jpg}
-    \caption{Hearts Game entities - UML}
+    \caption{Hearts Game entities - \gls{uml}}
     \label{fig:heartsGameArq}
 \end{figure}
 
 \section{Game 2 - Maze}
 \label{arqMaze}
 
-The following UML of Figure \ref{fig:mazeGameArq} represents the Maze Game arquitecture.
+The following \gls{uml} of Figure \ref{fig:mazeGameArq} represents the Maze Game arquitecture.
 
 \begin{figure}[H]
     \centering
     \includegraphics[width=\linewidth]{Chapters/new_architechture/class__maze__MazeGame.jpg}
-    \caption{Maze Game Entities - UML}
+    \caption{Maze Game Entities - \gls{uml}}
     \label{fig:mazeGameArq}
 \end{figure}
 
@@ -285,7 +285,7 @@ The Sounds Game structure is as depicted in Figure \ref{fig:soundsGameArq}.
 \begin{figure}[!h]
     \centering
     \includegraphics[width=\linewidth]{Chapters/new_architechture/class__sounds__SoundsGame.jpg}
-    \caption{Sounds Game Entities - UML}
+    \caption{Sounds Game Entities - \gls{uml}}
     \label{fig:soundsGameArq}
 \end{figure}
 
@@ -311,7 +311,7 @@ The Words Game architecture is depicted in Figure \ref{fig:wordsGameArq}.
 \begin{figure}[!h]
     \centering
     \includegraphics[width=\linewidth]{Chapters/new_architechture/class__words__WordsGame.jpg}
-    \caption{Words Game Entities - UML}
+    \caption{Words Game Entities - \gls{uml}}
     \label{fig:wordsGameArq}
 \end{figure}
 
@@ -333,7 +333,7 @@ The Puzzle Game was defined as depicted in Figure \ref{fig:puzzleGameArq}.
 \begin{figure}[!h]
     \centering
     \includegraphics[width=\linewidth]{Chapters/new_architechture/class__puzzle__PuzzleGame.jpg}
-    \caption{Puzzle Game Entities - UML}
+    \caption{Puzzle Game Entities - \gls{uml}}
     \label{fig:puzzleGameArq}
 \end{figure}
 
