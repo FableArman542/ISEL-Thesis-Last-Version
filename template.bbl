@@ -17,6 +17,19 @@
 \endgroup
 
 \datalist[entry]{nyt/global//global/global}
+  \entry{pmc_dysgraphia}{article}{}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \field{note}{Accessed: 2024-11-04}
+    \field{title}{Article on Dysgraphia}
+    \verb{url}
+    \verb https://pmc.ncbi.nlm.nih.gov/articles/PMC7082241/
+    \endverb
+    \field{journaltitle}{PMC}
+    \field{year}{2023}
+  \endentry
+
   \entry{nationalLibraryMedicine}{online}{}
     \name{author}{2}{}{%
       {{hash=BE}{%
@@ -70,7 +83,7 @@
     \field{labeltitlesource}{title}
     \field{sortinit}{C}
     \field{sortinithash}{C}
-    \field{note}{Accessed: 2024-10-20}
+    \field{note}{Accessed: 2024-11-04}
     \field{title}{Visual Perception Concerns in Child Development}
     \verb{url}
     \verb https://childdevelopment.com.au/areas-of-concern/visual-perception/
@@ -93,7 +106,7 @@
     \field{labeltitlesource}{title}
     \field{sortinit}{C}
     \field{sortinithash}{C}
-    \field{note}{Accessed: 2024-10-20}
+    \field{note}{Accessed: 2024-11-04}
     \field{title}{Dysgraphia}
     \verb{url}
     \verb https://my.clevelandclinic.org/health/diseases/23294-dysgraphia
@@ -136,7 +149,7 @@
     \field{labeltitlesource}{title}
     \field{sortinit}{E}
     \field{sortinithash}{E}
-    \field{note}{Accessed: 2024-10-20}
+    \field{note}{Accessed: 2024-11-04}
     \field{title}{What Teachers Should Know About Dysgraphia}
     \verb{url}
     \verb https://www.edutopia.org/article/what-teachers-should-know-about-dysg
@@ -179,7 +192,7 @@
     \field{labeltitlesource}{title}
     \field{sortinit}{F}
     \field{sortinithash}{F}
-    \field{note}{Accessed: 2024-09-24}
+    \field{note}{Accessed: 2024-11-04}
     \field{title}{Figma: The collaborative interface design tool}
     \verb{url}
     \verb https://www.figma.com
@@ -202,7 +215,7 @@
     \field{labeltitlesource}{title}
     \field{sortinit}{G}
     \field{sortinithash}{G}
-    \field{note}{Accessed: 2024-09-24}
+    \field{note}{Accessed: 2024-11-04}
     \field{title}{Observer Design Pattern}
     \verb{url}
     \verb https://refactoring.guru/design-patterns/observer
@@ -225,7 +238,7 @@
     \field{labeltitlesource}{title}
     \field{sortinit}{G}
     \field{sortinithash}{G}
-    \field{note}{Accessed: 2024-09-24}
+    \field{note}{Accessed: 2024-11-04}
     \field{title}{Singleton Design Pattern}
     \verb{url}
     \verb https://refactoring.guru/design-patterns/singleton
@@ -246,7 +259,7 @@
     \field{labeltitlesource}{title}
     \field{sortinit}{H}
     \field{sortinithash}{H}
-    \field{note}{Accessed: 2024-10-20}
+    \field{note}{Accessed: 2024-11-04}
     \field{title}{APD Demographics}
     \verb{url}
     \verb https://hearinghealthfoundation.org/apd-demographics
@@ -360,7 +373,7 @@
     \field{labeltitlesource}{title}
     \field{sortinit}{K}
     \field{sortinithash}{K}
-    \field{note}{Accessed: 2024-10-20}
+    \field{note}{Accessed: 2024-11-04}
     \field{title}{Central Auditory Processing Disorder}
     \verb{url}
     \verb https://kidshealth.org/en/parents/central-auditory.html
@@ -478,7 +491,7 @@
     \field{labeltitlesource}{title}
     \field{sortinit}{N}
     \field{sortinithash}{N}
-    \field{note}{Accessed: 2024-10-20}
+    \field{note}{Accessed: 2024-11-04}
     \field{title}{Auditory Processing Disorder (APD)}
     \verb{url}
     \verb https://www.nationwidechildrens.org/conditions/auditory-processing-di
@@ -547,7 +560,7 @@
     \field{labeltitlesource}{title}
     \field{sortinit}{P}
     \field{sortinithash}{P}
-    \field{note}{Accessed: 2024-10-20}
+    \field{note}{Accessed: 2024-11-04}
     \field{title}{Visual Perceptual Deficits}
     \verb{url}
     \verb https://www.porteracademy.org/visual-perceptual-deficits/
@@ -568,7 +581,7 @@
     \field{labeltitlesource}{title}
     \field{sortinit}{S}
     \field{sortinithash}{S}
-    \field{note}{Accessed: 2024-10-20}
+    \field{note}{Accessed: 2024-11-04}
     \field{title}{Visual Perception and Processing Deficits Linked to Learning Disorders}
     \verb{url}
     \verb https://www.sciencedaily.com/releases/2020/04/200428093519.htm
@@ -632,7 +645,7 @@
     \field{labeltitlesource}{title}
     \field{sortinit}{S}
     \field{sortinithash}{S}
-    \field{note}{Accessed: 2024-10-20}
+    \field{note}{Accessed: 2024-11-04}
     \field{title}{Visual Perceptual and Visual Motor Deficit Tools}
     \verb{url}
     \verb https://speechify.com/blog/visual-perceptual-visual-motor-deficit-too
@@ -793,7 +806,7 @@
     \field{labeltitlesource}{title}
     \field{sortinit}{U}
     \field{sortinithash}{U}
-    \field{note}{Accessed: 2024-10-20}
+    \field{note}{Accessed: 2024-11-04}
     \field{title}{Classroom Accommodations for Dysgraphia}
     \verb{url}
     \verb https://www.understood.org/en/articles/at-a-glance-classroom-accommod
@@ -838,37 +851,13 @@
     \field{labeltitlesource}{title}
     \field{sortinit}{U}
     \field{sortinithash}{U}
-    \field{note}{Accessed: 2024-10-20}
+    \field{note}{Accessed: 2024-11-04}
     \field{title}{Language Processing Disorder}
     \verb{url}
     \verb https://my.vanderbilt.edu/speds2430/2020-topics/language-processing-d
     \verb isorder/
     \endverb
     \field{year}{2024}
-  \endentry
-
-  \entry{pmc_dysgraphia}{article}{}
-    \name{author}{1}{}{%
-      {{hash=UA}{%
-         family={Unknown},
-         familyi={U\bibinitperiod},
-         given={Author},
-         giveni={A\bibinitperiod},
-      }}%
-    }
-    \strng{namehash}{UA1}
-    \strng{fullhash}{UA1}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
-    \field{sortinit}{U}
-    \field{sortinithash}{U}
-    \field{note}{Accessed: 2024-10-20}
-    \field{title}{Article on Dysgraphia}
-    \verb{url}
-    \verb https://pmc.ncbi.nlm.nih.gov/articles/PMC7082241/
-    \endverb
-    \field{journaltitle}{PMC}
-    \field{year}{2023}
   \endentry
 
   \entry{WebMD}{online}{}
@@ -884,7 +873,7 @@
     \field{labeltitlesource}{title}
     \field{sortinit}{W}
     \field{sortinithash}{W}
-    \field{note}{Accessed: 2024-10-20}
+    \field{note}{Accessed: 2024-11-04}
     \field{title}{Auditory Processing Disorder (APD) Overview}
     \verb{url}
     \verb https://www.webmd.com/brain/auditory-processing-disorder
