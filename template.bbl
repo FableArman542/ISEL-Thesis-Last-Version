@@ -500,6 +500,32 @@
     \field{year}{2023}
   \endentry
 
+  \entry{NINDSLearningDisabilities}{misc}{}
+    \name{author}{2}{}{%
+      {{hash=oNDNI}{%
+         prefix={of},
+         prefixi={o\bibinitperiod},
+         family={Neurological\bibnamedelima Disorders},
+         familyi={N\bibinitperiod\bibinitdelim D\bibinitperiod},
+         given={National\bibnamedelima Institute},
+         giveni={N\bibinitperiod\bibinitdelim I\bibinitperiod},
+      }}%
+      {{hash=S}{%
+         family={Stroke},
+         familyi={S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{NDNIoS1}
+    \strng{fullhash}{NDNIoS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{N}
+    \field{sortinithash}{N}
+    \field{howpublished}{\url{https://www.ninds.nih.gov/health-information/disorders/learning-disabilities}}
+    \field{note}{Accessed: 2024-11-04}
+    \field{title}{Learning Disabilities}
+  \endentry
+
   \entry{gblProsCons}{online}{}
     \name{author}{1}{}{%
       {{hash=NJ}{%
@@ -816,6 +842,28 @@
     \verb isorder/
     \endverb
     \field{year}{2024}
+  \endentry
+
+  \entry{UniversityWashingtonLearningDisabilities}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=oWDICU}{%
+         prefix={of},
+         prefixi={o\bibinitperiod},
+         family={Washington DO-IT\bibnamedelima Center},
+         familyi={W\bibinitperiod\bibinitdelim D\bibinithyphendelim I\bibinitperiod\bibinitdelim C\bibinitperiod},
+         given={University},
+         giveni={U\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{WDICUo1}
+    \strng{fullhash}{WDICUo1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \field{howpublished}{\url{https://www.washington.edu/doit/learning-disabilities}}
+    \field{note}{Accessed: 2024-11-04}
+    \field{title}{Learning Disabilities}
   \endentry
 
   \entry{WebMD}{online}{}

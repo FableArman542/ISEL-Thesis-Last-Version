@@ -39,7 +39,6 @@ All other assets are composed with the use of Artificial Intelligence (excluding
 
 % \newpage
 \subsection*{Design Overview}
-% TODO: detalhar a estrutura dos jogos
 
 Before detailing each game, it is important to develop the flow for each one. The games can be rather different from one another, but to keep the same language between all of them we utilized the following flow. When the player opens a game he/she will be greated with a home page with all the necessary instructions to be aquanted with the current game. After this, each game will always have some kind of different levels or difficulties to choose from.
 Because of this, the folowing wireframes were made, depicted in figures \ref{fig:home-wireframe} and \ref{fig:levels-wireframe}. After these screens the game shall begin.
@@ -127,8 +126,6 @@ The implementation will be contained in a package called \textbf{minigames}. Her
 
 The implementation can be found in the following Azure Repository: \url{https://dev.azure.com/A45414/_git/Thesis%20Children%20Learing%20Disabilities}.
 
-% TODO: Add leantween library
-
 \newpage
 Figure \ref{fig:packages} shows the package structure.
 
@@ -150,8 +147,6 @@ The main components for this architecture are as follows:
     \item \textbf{\textit{ScoreManager}}.
     \item \textbf{\textit{ScenesHandling}}.
 \end{itemize}
-
-% TODO Explain a MonoBehaviour
 
 % The main components for this architecture will be responsible for handling the game logic and the the user menus (\textbf{\textit{GameHandling}} and \textbf{\textit{MenuHandling}}).
 
@@ -201,7 +196,6 @@ Figure \ref{fig:handlers} represents the complete architecture of this mechanism
 \end{figure}
 
 \paragraph{Common}
-% TODO: Finish and add the common diagram
 
 The `Common' package hosts as the name implies all objects that although not being a part of the architecture can help simplify the process of development of the games. At this stage, only two classes were needed. 
 
@@ -350,8 +344,6 @@ The purpose of the game is for the player to complete puzzles. The first aspect 
 The grid and the tray both used Unity's \gls{ui} grid layout group, which is a component that organizes its children in a grid-like way. The puzzle grid would have multiple placeholders (each placeholder is a `PuzzleSlot') for the puzzle depending on the difficulty (3x3 or 5x5 grid for instance).
 
 The player has to be able to drag and drop pieces from the tray to the placeholders on the puzzle grid. This mechanism utilizes Unity's methods `OnBeginDrag', `OnEndDrag', `OnDrag' from the IBeginDragHandler, IDragHandler, and IEndDragHandler interfaces.
-% TODO: add puzzle piece interfaces realization
-% TODO: add all unity event functions to 
 
 For faster level creation it was also decided the game itself has to be able to cut any image into puzzle pieces. This way, we can introduce new levels to the game by simply adding an image.
 
