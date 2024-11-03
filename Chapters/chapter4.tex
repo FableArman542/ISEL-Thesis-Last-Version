@@ -77,7 +77,7 @@ It was decided to use Unity due to its support of lots of features regarding 2D 
 Because the mini-games have impact on the users through user experience it is also an important step to choose the tool used to prototype every screen present in the game before any development. For that, we will be using Figma \cite{figma}, a free prototyping tool owned by Adobe that will allow for creating the best scenarios for each screen present in the project. There is also the possibility to ask for feedback from friends and family right before the development, ensuring that almost no time is spent changing layouts or user flows.
 
 \section{Unity Components}
-Unity uses the C\# programming language to manipulate the game structure but it can also be used with visual scripting. C\# is an object-oriented programming (OOP) language so it's great for creating a good architecture using principles like polymorphism, encapsulation, inheritance, and abstraction.
+Unity uses the C\# programming language to manipulate the game structure but it can also be used with visual scripting. C\# is an \gls{oop} language so it's great for creating a good architecture using principles like polymorphism, encapsulation, inheritance, and abstraction.
 
 Unity uses a script like system in which every asset that is present in the scene is called a \textbf{GameObject} and through these we can introduce C\# scripts that will then manipulate the logic in the game. Each script acts as a component of the GameObject and is required to extend the base class \textit{MonoBehaviour} from the Unity Engine's library \cite{unityDocMonoBehaviour}.
 
@@ -112,7 +112,7 @@ There are also objects that can exist independently of GameObject such as the \t
 
 \section{Architecture Overview}
 \label{arqOverview}
-Since C\# is an OOP language, we have the possibility to use all the principles found in this paradigm such as:
+Since C\# is an \gls{oop} language, we have the possibility to use all the principles found in this paradigm such as:
 
 \begin{itemize}
     \item \textbf{Inheritence} - The ability to have an object that inherits it's base from a super component (eg the object Truck can inherit characteristics from Car).
@@ -124,6 +124,8 @@ Since C\# is an OOP language, we have the possibility to use all the principles 
 Using these simple principles, the output is easier to understand with less entropy in the creation as well as debugging of the project. It also helps reusing code that can be used multiple times.
 
 The implementation will be contained in a package called \textbf{minigames}. Here we can expect a package for each mini-game (\textbf{hearts}, \textbf{maze}, \textbf{sounds}, \textbf{puzzle}, and \textbf{words}) but also another one for the game home scene that will also require some implementation. Lastly, there will be a package called \textbf{common} which will handle any type of operations that can be used for multiple games. An example could be a counter that can be used in multiple games and has the same implementation in all of them.
+
+The implementation can be found in the following Azure Repository: \url{https://dev.azure.com/A45414/_git/Thesis%20Children%20Learing%20Disabilities}.
 
 % TODO: Add leantween library
 

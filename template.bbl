@@ -547,48 +547,6 @@
     \field{year}{2024}
   \endentry
 
-  \entry{PorterAcademy}{online}{}
-    \name{author}{1}{}{%
-      {{hash=P}{%
-         family={{Porter Academy}},
-         familyi={P\bibinitperiod},
-      }}%
-    }
-    \strng{namehash}{P1}
-    \strng{fullhash}{P1}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
-    \field{sortinit}{P}
-    \field{sortinithash}{P}
-    \field{note}{Accessed: 2024-11-04}
-    \field{title}{Visual Perceptual Deficits}
-    \verb{url}
-    \verb https://www.porteracademy.org/visual-perceptual-deficits/
-    \endverb
-    \field{year}{2023}
-  \endentry
-
-  \entry{ScienceDaily}{online}{}
-    \name{author}{1}{}{%
-      {{hash=S}{%
-         family={{ScienceDaily}},
-         familyi={S\bibinitperiod},
-      }}%
-    }
-    \strng{namehash}{S1}
-    \strng{fullhash}{S1}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
-    \field{sortinit}{S}
-    \field{sortinithash}{S}
-    \field{note}{Accessed: 2024-11-04}
-    \field{title}{Visual Perception and Processing Deficits Linked to Learning Disorders}
-    \verb{url}
-    \verb https://www.sciencedaily.com/releases/2020/04/200428093519.htm
-    \endverb
-    \field{year}{2020}
-  \endentry
-
   \entry{fastforword}{software}{}
     \name{author}{1}{}{%
       {{hash=S}{%
@@ -596,8 +554,8 @@
          familyi={S\bibinitperiod},
       }}%
     }
-    \strng{namehash}{S2}
-    \strng{fullhash}{S2}
+    \strng{namehash}{S1}
+    \strng{fullhash}{S1}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{sortinit}{S}
@@ -639,8 +597,8 @@
          familyi={S\bibinitperiod},
       }}%
     }
-    \strng{namehash}{S3}
-    \strng{fullhash}{S3}
+    \strng{namehash}{S2}
+    \strng{fullhash}{S2}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{sortinit}{S}
