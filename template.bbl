@@ -1,5 +1,5 @@
 % $ biblatex auxiliary file $
-% $ biblatex bbl format version 3.2 $
+% $ biblatex bbl format version 3.3 $
 % Do not modify the above lines!
 %
 % This is an auxiliary file used by the 'biblatex' package.
@@ -16,8 +16,8 @@
   {}
 \endgroup
 
-\datalist[entry]{nyt/global//global/global}
-  \entry{pmc_dysgraphia}{article}{}
+\datalist[entry]{nyt/global//global/global/global}
+  \entry{pmc_dysgraphia}{article}{}{}
     \field{labeltitlesource}{title}
     \field{sortinit}{A}
     \field{sortinithash}{A}
@@ -30,7 +30,7 @@
     \field{year}{2023}
   \endentry
 
-  \entry{nationalLibraryMedicine}{online}{}
+  \entry{nationalLibraryMedicine}{online}{}{}
     \name{author}{2}{}{%
       {{hash=BE}{%
          family={Bloom},
@@ -58,7 +58,29 @@
     \field{year}{2009}
   \endentry
 
-  \entry{dyslexiaCharAndSigns}{online}{}
+  \entry{brady2012apps}{book}{}{}
+    \name{author}{1}{}{%
+      {{hash=BLJ}{%
+         family={Brady},
+         familyi={B\bibinitperiod},
+         given={Lois\bibnamedelima Jean},
+         giveni={L\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {BookBaby}%
+    }
+    \strng{namehash}{BLJ1}
+    \strng{fullhash}{BLJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{title}{Apps for Autism: An Essential Guide to Over 200 Effective Apps for Improving Communication, Behavior, Social Skills, and More!}
+    \field{year}{2012}
+  \endentry
+
+  \entry{dyslexiaCharAndSigns}{online}{}{}
     \field{labeltitlesource}{title}
     \field{sortinit}{C}
     \field{sortinithash}{C}
@@ -70,7 +92,7 @@
     \field{year}{2023}
   \endentry
 
-  \entry{ChildDevelopment}{online}{}
+  \entry{ChildDevelopment}{online}{}{}
     \name{author}{1}{}{%
       {{hash=C}{%
          family={{Child Development Australia}},
@@ -91,7 +113,7 @@
     \field{year}{2023}
   \endentry
 
-  \entry{cleveland_dysgraphia}{misc}{}
+  \entry{cleveland_dysgraphia}{misc}{}{}
     \name{author}{1}{}{%
       {{hash=CC}{%
          family={Clinic},
@@ -114,7 +136,7 @@
     \field{year}{2023}
   \endentry
 
-  \entry{clevelandclinic2024}{online}{}
+  \entry{clevelandclinic2024}{online}{}{}
     \name{author}{1}{}{%
       {{hash=CC}{%
          family={Clinic},
@@ -136,7 +158,7 @@
     \field{year}{2024}
   \endentry
 
-  \entry{edutopia_dysgraphia}{misc}{}
+  \entry{edutopia_dysgraphia}{misc}{}{}
     \name{author}{1}{}{%
       {{hash=E}{%
          family={Edutopia},
@@ -158,7 +180,7 @@
     \field{year}{2023}
   \endentry
 
-  \entry{unrealengine}{software}{}
+  \entry{unrealengine}{software}{}{}
     \name{author}{1}{}{%
       {{hash=E}{%
          family={{Epic Games}},
@@ -179,7 +201,7 @@
     \field{year}{2024}
   \endentry
 
-  \entry{figma}{online}{}
+  \entry{figma}{online}{}{}
     \name{author}{1}{}{%
       {{hash=F}{%
          family={Figma},
@@ -200,7 +222,7 @@
     \field{year}{n.d.}
   \endentry
 
-  \entry{gamma1994design}{book}{}
+  \entry{gamma1994design}{book}{}{}
     \name{author}{4}{}{%
       {{hash=GE}{%
          family={Gamma},
@@ -244,7 +266,7 @@
     \field{year}{1994}
   \endentry
 
-  \entry{graphogamesoftware}{misc}{}
+  \entry{graphogamesoftware}{misc}{}{}
     \name{author}{1}{}{%
       {{hash=G}{%
          family={GraphoGame},
@@ -264,7 +286,63 @@
     \field{year}{2023}
   \endentry
 
-  \entry{observer}{online}{}
+  \entry{challengingKT}{article}{}{}
+    \name{author}{4}{}{%
+      {{hash=GK}{%
+         family={Guldberg},
+         familyi={G\bibinitperiod},
+         given={Karen},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=PS}{%
+         family={Parsons},
+         familyi={P\bibinitperiod},
+         given={Sarah},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=PPK}{%
+         family={Porayska-Pomsta},
+         familyi={P\bibinithyphendelim P\bibinitperiod},
+         given={Kaśka},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=KBW}{%
+         family={Keay-Bright},
+         familyi={K\bibinithyphendelim B\bibinitperiod},
+         given={Wendy},
+         giveni={W\bibinitperiod},
+      }}%
+    }
+    \keyw{technology-enhanced learning, participatory research, autism intervention, knowledge co-construction, knowledge exchange, knowledge elicitation, knowledge transfer}
+    \strng{namehash}{GK+1}
+    \strng{fullhash}{GKPSPPKKBW1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \field{abstract}{%
+    Experimental intervention studies constitute the current dominant research designs in the autism education field. Such designs are based on a ‘knowledge-transfer’ model of evidence-based practice in which research is conducted by researchers, and is then ‘transferred’ to practitioners to enable them to implement evidence-based interventions. While these research designs contribute important knowledge, they lead to a gap between what the research evidence may prescribe and what happens in practice, with a concomitant disparity between the priorities of researchers and practitioners. This paper discusses findings from the ESRC-funded ‘SHAPE’ project, which adopted a different model of evidence-based practice, focusing on knowledge co-construction. Pupils (N = 8), teachers (N = 10), a speech and language therapist and a parent in three different school communities investigated creative ways in which children's social communication skills could be enhanced through technology use. Through a participatory methodology, digital stories were used as a method to enable engagement with the practical realities of the classroom and empower practitioners to construct and share their own authentic narratives. Participants articulated precise knowledge about the learning opportunities afforded to them and their pupils through quality interactions that were mediated by the technologies, as evidenced through digital stories. The SHAPE project shows that it is feasible to develop methodologies that enable genuine knowledge co-construction with school practitioners, parents and pupils. Such co-construction could offer realistic opportunities for pedagogical emancipation and innovation in evidence-based practice as an alternative to the currently dominant and narrow model of knowledge transfer.%
+    }
+    \verb{doi}
+    \verb https://doi.org/10.1002/berj.3275
+    \endverb
+    \verb{eprint}
+    \verb https://bera-journals.onlinelibrary.wiley.com/doi/pdf/10.1002/berj.32
+    \verb 75
+    \endverb
+    \field{number}{2}
+    \field{pages}{394\bibrangedash 413}
+    \field{title}{Challenging the knowledge-transfer orthodoxy: Knowledge co-construction in technology-enhanced learning for children with autism}
+    \verb{url}
+    \verb https://bera-journals.onlinelibrary.wiley.com/doi/abs/10.1002/berj.32
+    \verb 75
+    \endverb
+    \field{volume}{43}
+    \field{journaltitle}{British Educational Research Journal}
+    \field{year}{2017}
+  \endentry
+
+  \entry{observer}{online}{}{}
     \name{author}{1}{}{%
       {{hash=GR}{%
          family={Guru},
@@ -287,7 +365,7 @@
     \field{year}{n.d.}
   \endentry
 
-  \entry{singleton}{online}{}
+  \entry{singleton}{online}{}{}
     \name{author}{1}{}{%
       {{hash=GR}{%
          family={Guru},
@@ -310,7 +388,7 @@
     \field{year}{n.d.}
   \endentry
 
-  \entry{HearingHealth}{online}{}
+  \entry{HearingHealth}{online}{}{}
     \name{author}{1}{}{%
       {{hash=H}{%
          family={{Hearing Health Foundation}},
@@ -331,7 +409,7 @@
     \field{year}{2022}
   \endentry
 
-  \entry{understood_nvld_adult_2024}{online}{}
+  \entry{understood_nvld_adult_2024}{online}{}{}
     \name{author}{1}{}{%
       {{hash=HM}{%
          family={Hearst},
@@ -354,7 +432,7 @@
     \field{year}{2024}
   \endentry
 
-  \entry{adobeGuidelines}{online}{}
+  \entry{adobeGuidelines}{online}{}{}
     \name{author}{1}{}{%
       {{hash=IA}{%
          family={Inc.},
@@ -377,7 +455,7 @@
     \field{year}{2024}
   \endentry
 
-  \entry{jama_nvld_2024}{article}{}
+  \entry{jama_nvld_2024}{article}{}{}
     \name{author}{1}{}{%
       {{hash=oJaA}{%
          prefix={of},
@@ -401,7 +479,7 @@
     \field{year}{2024}
   \endentry
 
-  \entry{understood_accommodations_2024}{online}{}
+  \entry{understood_accommodations_2024}{online}{}{}
     \name{author}{1}{}{%
       {{hash=KK}{%
          family={Kelly},
@@ -424,7 +502,7 @@
     \field{year}{2024}
   \endentry
 
-  \entry{KidsHealth}{online}{}
+  \entry{KidsHealth}{online}{}{}
     \name{author}{1}{}{%
       {{hash=K}{%
          family={{KidsHealth}},
@@ -445,7 +523,7 @@
     \field{year}{2023}
   \endentry
 
-  \entry{gemlearningFastFor}{online}{}
+  \entry{gemlearningFastFor}{online}{}{}
     \name{author}{1}{}{%
       {{hash=LG}{%
          family={Learning},
@@ -467,7 +545,7 @@
     \field{year}{2023}
   \endentry
 
-  \entry{godot}{software}{}
+  \entry{godot}{software}{}{}
     \name{author}{2}{}{%
       {{hash=LJ}{%
          family={Linietsky},
@@ -496,7 +574,7 @@
     \field{year}{2024}
   \endentry
 
-  \entry{additude}{online}{}
+  \entry{additude}{online}{}{}
     \name{author}{1}{}{%
       {{hash=MA}{%
          family={Magazine},
@@ -519,7 +597,7 @@
     \field{year}{2024}
   \endentry
 
-  \entry{dyslexiaUnderstanding}{online}{}
+  \entry{dyslexiaUnderstanding}{online}{}{}
     \name{author}{1}{}{%
       {{hash=MK}{%
          family={Martinelli},
@@ -542,7 +620,7 @@
     \field{year}{2023}
   \endentry
 
-  \entry{Nationwide}{online}{}
+  \entry{Nationwide}{online}{}{}
     \name{author}{1}{}{%
       {{hash=N}{%
          family={{Nationwide Children's Hospital}},
@@ -564,7 +642,7 @@
     \field{year}{2023}
   \endentry
 
-  \entry{NINDSLearningDisabilities}{misc}{}
+  \entry{NINDSLearningDisabilities}{misc}{}{}
     \name{author}{2}{}{%
       {{hash=oNDNI}{%
          prefix={of},
@@ -590,7 +668,7 @@
     \field{title}{Learning Disabilities}
   \endentry
 
-  \entry{gblProsCons}{online}{}
+  \entry{gblProsCons}{online}{}{}
     \name{author}{1}{}{%
       {{hash=NJ}{%
          family={Nisbet},
@@ -613,7 +691,7 @@
     \field{year}{2023}
   \endentry
 
-  \entry{numbershire}{online}{}
+  \entry{numbershire}{online}{}{}
     \name{author}{1}{}{%
       {{hash=N}{%
          family={NumberShire},
@@ -633,7 +711,7 @@
     \field{year}{2023}
   \endentry
 
-  \entry{pmc2024}{article}{}
+  \entry{pmc2024}{article}{}{}
     \name{author}{1}{}{%
       {{hash=oPaA}{%
          prefix={of},
@@ -657,7 +735,50 @@
     \field{year}{2024}
   \endentry
 
-  \entry{fastforword}{software}{}
+  \entry{ronimus2019supporting}{article}{}{}
+    \name{author}{4}{}{%
+      {{hash=RM}{%
+         family={Ronimus},
+         familyi={R\bibinitperiod},
+         given={Miia},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=EK}{%
+         family={Eklund},
+         familyi={E\bibinitperiod},
+         given={Kenneth},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=PL}{%
+         family={Pesu},
+         familyi={P\bibinitperiod},
+         given={Laura},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=LH}{%
+         family={Lyytinen},
+         familyi={L\bibinitperiod},
+         given={Heikki},
+         giveni={H\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Springer}%
+    }
+    \strng{namehash}{RM+1}
+    \strng{fullhash}{RMEKPLLH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{R}
+    \field{sortinithash}{R}
+    \field{pages}{639\bibrangedash 663}
+    \field{title}{Supporting struggling readers with digital game-based learning}
+    \field{volume}{67}
+    \field{journaltitle}{Educational Technology Research and Development}
+    \field{year}{2019}
+  \endentry
+
+  \entry{fastforword}{software}{}{}
     \name{author}{1}{}{%
       {{hash=S}{%
          family={{Scientific Learning Corporation}},
@@ -678,7 +799,7 @@
     \field{year}{2024}
   \endentry
 
-  \entry{greatspeech}{online}{}
+  \entry{greatspeech}{online}{}{}
     \name{author}{1}{}{%
       {{hash=SG}{%
          family={Speech},
@@ -700,7 +821,7 @@
     \field{year}{2024}
   \endentry
 
-  \entry{Speechify}{online}{}
+  \entry{Speechify}{online}{}{}
     \name{author}{1}{}{%
       {{hash=S}{%
          family={{Speechify}},
@@ -723,7 +844,7 @@
     \field{year}{2023}
   \endentry
 
-  \entry{dyslexiaClinic}{online}{}
+  \entry{dyslexiaClinic}{online}{}{}
     \name{author}{1}{}{%
       {{hash=SMC}{%
          family={Staff},
@@ -747,7 +868,7 @@
     \field{year}{2022}
   \endentry
 
-  \entry{understood2024}{online}{}
+  \entry{understood2024}{online}{}{}
     \name{author}{1}{}{%
       {{hash=TTU}{%
          family={Team},
@@ -769,7 +890,7 @@
     \field{year}{2024}
   \endentry
 
-  \entry{understood_nvld_2024}{online}{}
+  \entry{understood_nvld_2024}{online}{}{}
     \name{author}{1}{}{%
       {{hash=TTU}{%
          family={Team},
@@ -792,7 +913,7 @@
     \field{year}{2024}
   \endentry
 
-  \entry{unityDocMonoBehaviour}{online}{}
+  \entry{unityDocMonoBehaviour}{online}{}{}
     \name{author}{1}{}{%
       {{hash=TU}{%
          family={Technologies},
@@ -815,7 +936,7 @@
     \field{year}{2023}
   \endentry
 
-  \entry{unityDocScriptableObj}{online}{}
+  \entry{unityDocScriptableObj}{online}{}{}
     \name{author}{1}{}{%
       {{hash=TU}{%
          family={Technologies},
@@ -838,7 +959,7 @@
     \field{year}{2023}
   \endentry
 
-  \entry{unityDocEvent}{online}{}
+  \entry{unityDocEvent}{online}{}{}
     \name{author}{1}{}{%
       {{hash=TU}{%
          family={Technologies},
@@ -861,7 +982,7 @@
     \field{year}{2024}
   \endentry
 
-  \entry{understood_accommodations}{misc}{}
+  \entry{understood_accommodations}{misc}{}{}
     \name{author}{1}{}{%
       {{hash=U}{%
          family={Understood},
@@ -883,7 +1004,7 @@
     \field{year}{2023}
   \endentry
 
-  \entry{unity}{software}{}
+  \entry{unity}{software}{}{}
     \name{author}{1}{}{%
       {{hash=U}{%
          family={{Unity Technologies}},
@@ -904,7 +1025,7 @@
     \field{year}{2024}
   \endentry
 
-  \entry{vanderbilt}{online}{}
+  \entry{vanderbilt}{online}{}{}
     \name{author}{1}{}{%
       {{hash=UV}{%
          family={University},
@@ -928,7 +1049,7 @@
     \field{year}{2024}
   \endentry
 
-  \entry{UniversityWashingtonLearningDisabilities}{misc}{}
+  \entry{UniversityWashingtonLearningDisabilities}{misc}{}{}
     \name{author}{1}{}{%
       {{hash=oWDICU}{%
          prefix={of},
@@ -950,7 +1071,7 @@
     \field{title}{Learning Disabilities}
   \endentry
 
-  \entry{WebMD}{online}{}
+  \entry{WebMD}{online}{}{}
     \name{author}{1}{}{%
       {{hash=W}{%
          family={{WebMD}},
@@ -971,7 +1092,7 @@
     \field{year}{2023}
   \endentry
 
-  \entry{gamemaker}{software}{}
+  \entry{gamemaker}{software}{}{}
     \name{author}{1}{}{%
       {{hash=Y}{%
          family={{YoYo Games}},
@@ -992,7 +1113,7 @@
     \field{year}{2024}
   \endentry
 
-  \entry{dyslexiaStatistics}{online}{}
+  \entry{dyslexiaStatistics}{online}{}{}
     \name{author}{1}{}{%
       {{hash=ZS}{%
          family={Zauderer},
@@ -1015,7 +1136,7 @@
     \field{year}{2023}
   \endentry
 
-  \entry{libgdx}{software}{}
+  \entry{libgdx}{software}{}{}
     \name{author}{2}{}{%
       {{hash=ZM}{%
          family={Zechner},
