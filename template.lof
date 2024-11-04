@@ -14,39 +14,39 @@
 \addvspace {10pt}
 \contentsline {figure}{\numberline {1.1}{\ignorespaces Solution Outline}}{2}{figure.caption.7}%
 \addvspace {10pt}
-\contentsline {figure}{\numberline {2.1}{\ignorespaces Dyslexia User Profile}}{8}{figure.caption.14}%
-\contentsline {figure}{\numberline {2.2}{\ignorespaces Language Processing Disorder User Profile}}{11}{figure.caption.20}%
-\contentsline {figure}{\numberline {2.3}{\ignorespaces Dyscalculia User Profile}}{14}{figure.caption.26}%
-\contentsline {figure}{\numberline {2.4}{\ignorespaces Non-Verbal Learning Disabilities User Profile}}{17}{figure.caption.32}%
-\contentsline {figure}{\numberline {2.5}{\ignorespaces Dysgraphia User Profile}}{20}{figure.caption.38}%
-\contentsline {figure}{\numberline {2.6}{\ignorespaces Auditory Processing Disorder User Profile}}{23}{figure.caption.44}%
-\contentsline {figure}{\numberline {2.7}{\ignorespaces Visual Motor Deficit User Profile}}{26}{figure.caption.50}%
-\contentsline {figure}{\numberline {2.8}{\ignorespaces Fast ForWord - Cosmic Reader}}{29}{figure.caption.57}%
-\contentsline {figure}{\numberline {2.9}{\ignorespaces NumberShire - Gameplay}}{30}{figure.caption.59}%
-\contentsline {figure}{\numberline {2.10}{\ignorespaces GraphoGame - Gameplay}}{31}{figure.caption.61}%
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Dyslexia User Profile}}{7}{figure.caption.14}%
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Language Processing Disorder User Profile}}{10}{figure.caption.20}%
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Dyscalculia User Profile}}{13}{figure.caption.26}%
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Non-Verbal Learning Disabilities User Profile}}{16}{figure.caption.32}%
+\contentsline {figure}{\numberline {2.5}{\ignorespaces Dysgraphia User Profile}}{19}{figure.caption.38}%
+\contentsline {figure}{\numberline {2.6}{\ignorespaces Auditory Processing Disorder User Profile}}{22}{figure.caption.44}%
+\contentsline {figure}{\numberline {2.7}{\ignorespaces Visual Motor Deficit User Profile}}{25}{figure.caption.50}%
+\contentsline {figure}{\numberline {2.8}{\ignorespaces Fast ForWord - Cosmic Reader}}{28}{figure.caption.57}%
+\contentsline {figure}{\numberline {2.9}{\ignorespaces NumberShire - Gameplay}}{29}{figure.caption.59}%
+\contentsline {figure}{\numberline {2.10}{\ignorespaces GraphoGame - Gameplay}}{30}{figure.caption.61}%
 \addvspace {10pt}
-\contentsline {figure}{\numberline {3.1}{\ignorespaces Hearts Game - Home}}{35}{figure.caption.64}%
-\contentsline {figure}{\numberline {3.2}{\ignorespaces Hearts Game - Gameplay}}{35}{figure.caption.65}%
-\contentsline {figure}{\numberline {3.3}{\ignorespaces Maze Game - Home}}{36}{figure.caption.68}%
-\contentsline {figure}{\numberline {3.4}{\ignorespaces Maze Game - Gameplay}}{37}{figure.caption.69}%
-\contentsline {figure}{\numberline {3.5}{\ignorespaces Sounds Game - Home}}{39}{figure.caption.72}%
-\contentsline {figure}{\numberline {3.6}{\ignorespaces Sounds Game - Gameplay}}{39}{figure.caption.73}%
-\contentsline {figure}{\numberline {3.7}{\ignorespaces Words Game - Home}}{40}{figure.caption.76}%
-\contentsline {figure}{\numberline {3.8}{\ignorespaces Words Game - Gameplay}}{41}{figure.caption.77}%
-\contentsline {figure}{\numberline {3.9}{\ignorespaces Puzzle Game - Home}}{43}{figure.caption.80}%
-\contentsline {figure}{\numberline {3.10}{\ignorespaces Puzzle Game - Gameplay}}{43}{figure.caption.81}%
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Hearts Game - Home}}{33}{figure.caption.64}%
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Hearts Game - Gameplay}}{33}{figure.caption.65}%
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Maze Game - Home}}{34}{figure.caption.68}%
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Maze Game - Gameplay}}{35}{figure.caption.69}%
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Sounds Game - Home}}{36}{figure.caption.72}%
+\contentsline {figure}{\numberline {3.6}{\ignorespaces Sounds Game - Gameplay}}{36}{figure.caption.73}%
+\contentsline {figure}{\numberline {3.7}{\ignorespaces Words Game - Home}}{37}{figure.caption.76}%
+\contentsline {figure}{\numberline {3.8}{\ignorespaces Words Game - Gameplay}}{38}{figure.caption.77}%
+\contentsline {figure}{\numberline {3.9}{\ignorespaces Puzzle Game - Home}}{39}{figure.caption.80}%
+\contentsline {figure}{\numberline {3.10}{\ignorespaces Puzzle Game - Gameplay}}{40}{figure.caption.81}%
 \addvspace {10pt}
-\contentsline {figure}{\numberline {4.1}{\ignorespaces Game Home Page Wireframe}}{47}{figure.caption.86}%
-\contentsline {figure}{\numberline {4.2}{\ignorespaces Levels Page Wireframe}}{47}{figure.caption.86}%
-\contentsline {figure}{\numberline {4.3}{\ignorespaces Overall Application Architecture}}{50}{figure.caption.87}%
-\contentsline {figure}{\numberline {4.4}{\ignorespaces Handlers Mechanism \gls {uml}}}{52}{figure.caption.92}%
-\contentsline {figure}{\numberline {4.5}{\ignorespaces Common Package \gls {uml}}}{53}{figure.caption.94}%
-\contentsline {figure}{\numberline {4.6}{\ignorespaces Hearts Game entities - \gls {uml}}}{54}{figure.caption.95}%
-\contentsline {figure}{\numberline {4.7}{\ignorespaces Maze Game Entities - \gls {uml}}}{55}{figure.caption.96}%
-\contentsline {figure}{\numberline {4.8}{\ignorespaces Sounds Game Entities - \gls {uml}}}{56}{figure.caption.97}%
-\contentsline {figure}{\numberline {4.9}{\ignorespaces Words Game Entities - \gls {uml}}}{57}{figure.caption.98}%
-\contentsline {figure}{\numberline {4.10}{\ignorespaces Puzzle Game Entities - \gls {uml}}}{58}{figure.caption.99}%
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Game Home Page Wireframe}}{43}{figure.caption.86}%
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Levels Page Wireframe}}{43}{figure.caption.86}%
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Overall Application Architecture}}{46}{figure.caption.87}%
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Handlers Mechanism \gls {uml}}}{48}{figure.caption.92}%
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Common Package \gls {uml}}}{49}{figure.caption.94}%
+\contentsline {figure}{\numberline {4.6}{\ignorespaces Hearts Game entities - \gls {uml}}}{50}{figure.caption.95}%
+\contentsline {figure}{\numberline {4.7}{\ignorespaces Maze Game Entities - \gls {uml}}}{51}{figure.caption.96}%
+\contentsline {figure}{\numberline {4.8}{\ignorespaces Sounds Game Entities - \gls {uml}}}{52}{figure.caption.97}%
+\contentsline {figure}{\numberline {4.9}{\ignorespaces Words Game Entities - \gls {uml}}}{53}{figure.caption.98}%
+\contentsline {figure}{\numberline {4.10}{\ignorespaces Puzzle Game Entities - \gls {uml}}}{54}{figure.caption.99}%
 \addvspace {10pt}
-\contentsline {figure}{\numberline {5.1}{\ignorespaces Reference Image Frame}}{65}{figure.caption.102}%
-\contentsline {figure}{\numberline {5.2}{\ignorespaces Read out loudInstructions Button}}{69}{figure.caption.103}%
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Reference Image Frame}}{61}{figure.caption.102}%
+\contentsline {figure}{\numberline {5.2}{\ignorespaces Read out loudInstructions Button}}{63}{figure.caption.103}%
 \addvspace {10pt}

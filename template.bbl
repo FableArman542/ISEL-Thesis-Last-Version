@@ -16,7 +16,7 @@
   {}
 \endgroup
 
-\datalist[entry]{nty/global//global/global}
+\datalist[entry]{nyt/global//global/global}
   \entry{pmc_dysgraphia}{article}{}
     \field{labeltitlesource}{title}
     \field{sortinit}{A}
@@ -91,28 +91,6 @@
     \field{year}{2023}
   \endentry
 
-  \entry{clevelandclinic2024}{online}{}
-    \name{author}{1}{}{%
-      {{hash=CC}{%
-         family={Clinic},
-         familyi={C\bibinitperiod},
-         given={Cleveland},
-         giveni={C\bibinitperiod},
-      }}%
-    }
-    \strng{namehash}{CC1}
-    \strng{fullhash}{CC1}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
-    \field{sortinit}{C}
-    \field{sortinithash}{C}
-    \field{title}{Dyscalculia: Symptoms and Causes}
-    \verb{url}
-    \verb https://my.clevelandclinic.org/health/diseases/23949-dyscalculia
-    \endverb
-    \field{year}{2024}
-  \endentry
-
   \entry{cleveland_dysgraphia}{misc}{}
     \name{author}{1}{}{%
       {{hash=CC}{%
@@ -134,6 +112,28 @@
     \verb https://my.clevelandclinic.org/health/diseases/23294-dysgraphia
     \endverb
     \field{year}{2023}
+  \endentry
+
+  \entry{clevelandclinic2024}{online}{}
+    \name{author}{1}{}{%
+      {{hash=CC}{%
+         family={Clinic},
+         familyi={C\bibinitperiod},
+         given={Cleveland},
+         giveni={C\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CC1}
+    \strng{fullhash}{CC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{title}{Dyscalculia: Symptoms and Causes}
+    \verb{url}
+    \verb https://my.clevelandclinic.org/health/diseases/23949-dyscalculia
+    \endverb
+    \field{year}{2024}
   \endentry
 
   \entry{edutopia_dysgraphia}{misc}{}
@@ -198,6 +198,50 @@
     \verb https://www.figma.com
     \endverb
     \field{year}{n.d.}
+  \endentry
+
+  \entry{gamma1994design}{book}{}
+    \name{author}{4}{}{%
+      {{hash=GE}{%
+         family={Gamma},
+         familyi={G\bibinitperiod},
+         given={Erich},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=HR}{%
+         family={Helm},
+         familyi={H\bibinitperiod},
+         given={Richard},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=JR}{%
+         family={Johnson},
+         familyi={J\bibinitperiod},
+         given={Ralph},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=VJ}{%
+         family={Vlissides},
+         familyi={V\bibinitperiod},
+         given={John},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Addison-Wesley Professional}%
+    }
+    \strng{namehash}{GE+1}
+    \strng{fullhash}{GEHRJRVJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \field{isbn}{978-0201633610}
+    \field{title}{Design Patterns: Elements of Reusable Object-Oriented Software}
+    \list{location}{1}{%
+      {Boston, MA}%
+    }
+    \field{year}{1994}
   \endentry
 
   \entry{graphogamesoftware}{misc}{}
@@ -748,29 +792,6 @@
     \field{year}{2024}
   \endentry
 
-  \entry{unityDocEvent}{online}{}
-    \name{author}{1}{}{%
-      {{hash=TU}{%
-         family={Technologies},
-         familyi={T\bibinitperiod},
-         given={Unity},
-         giveni={U\bibinitperiod},
-      }}%
-    }
-    \strng{namehash}{TU1}
-    \strng{fullhash}{TU1}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
-    \field{sortinit}{T}
-    \field{sortinithash}{T}
-    \field{title}{Event Functions}
-    \verb{url}
-    \verb https://docs.unity3d.com/ScriptReference/MonoBehaviour.html
-    \endverb
-    \field{month}{07}
-    \field{year}{2024}
-  \endentry
-
   \entry{unityDocMonoBehaviour}{online}{}
     \name{author}{1}{}{%
       {{hash=TU}{%
@@ -815,6 +836,29 @@
     \endverb
     \field{month}{12}
     \field{year}{2023}
+  \endentry
+
+  \entry{unityDocEvent}{online}{}
+    \name{author}{1}{}{%
+      {{hash=TU}{%
+         family={Technologies},
+         familyi={T\bibinitperiod},
+         given={Unity},
+         giveni={U\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{TU1}
+    \strng{fullhash}{TU1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{T}
+    \field{sortinithash}{T}
+    \field{title}{Event Functions}
+    \verb{url}
+    \verb https://docs.unity3d.com/ScriptReference/MonoBehaviour.html
+    \endverb
+    \field{month}{07}
+    \field{year}{2024}
   \endentry
 
   \entry{understood_accommodations}{misc}{}

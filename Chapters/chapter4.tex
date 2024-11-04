@@ -4,8 +4,7 @@
 \label{cha:game_development}
 
 This chapter addresses the technical details chosen to develop the mini-games. Before and during the creation of the mini-games, it is important to correctly detail the looks as well as the tools and technologies used to generate the best architecture.
-Section \ref{designPriciples} will start by focusing on the design principles that were taken into account, followed by the technologies used, explaining each choice in the section \ref{methodology}. 
-To create these many mini-games a good foundation is needed hence the reason for clear modelling of the software before hands-on work. Section \ref{arqOverview} will go through an overview for the proposed arquitecture that will be utilized in every game.
+Section \ref{designPriciples} will start by focusing on the design principles that were taken into account, followed by the technologies used, explaining each choice in the section \ref{methodology}. Section \ref{unityComponents}, explains the Unity components in detail. To create these many mini-games a good foundation is needed hence the reason for clear modelling of the software before hands-on work. Section \ref{arqOverview} will go through an overview for the proposed arquitecture that will be utilized in every game.
 
 Finally, we will be able to see the each game's implementation on its own from sections \ref{arqHearts} to \ref{arqPuzzle}.
 
@@ -76,6 +75,7 @@ It was decided to use Unity due to its support of lots of features regarding 2D 
 Because the mini-games have impact on the users through user experience it is also an important step to choose the tool used to prototype every screen present in the game before any development. For that, we will be using Figma \cite{figma}, a free prototyping tool owned by Adobe that will allow for creating the best scenarios for each screen present in the project. There is also the possibility to ask for feedback from friends and family right before the development, ensuring that almost no time is spent changing layouts or user flows.
 
 \section{Unity Components}
+\label{unityComponents}
 Unity uses the C\# programming language to manipulate the game structure but it can also be used with visual scripting. C\# is an \gls{oop} language so it's great for creating a good architecture using principles like polymorphism, encapsulation, inheritance, and abstraction.
 
 Unity uses a script like system in which every asset that is present in the scene is called a \textbf{GameObject} and through these we can introduce C\# scripts that will then manipulate the logic in the game. Each script acts as a component of the GameObject and is required to extend the base class \textit{MonoBehaviour} from the Unity Engine's library \cite{unityDocMonoBehaviour}.
@@ -165,7 +165,7 @@ The main components for this architecture are as follows:
 
 Because we're using Unity where most of the scripts will be attached to GameObjects and not directly connected to these mechanisms, \textit{GameHandling} hosts two separate events capable of notifying components of Start and Finish game events.
 
-It utilizes the Observer Design Pattern \cite{observer} which allows the definition of a subscription mechanism to notify multiple objects about these events on the game status.
+It utilizes the Observer Design Pattern \cite{observer} which allows the definition of a subscription mechanism to notify multiple objects about these events on the game status \cite{gamma1994design}.
 
 \textbf{\textit{GameHandling}} is also responsible for loading the game and therefore has an unimplemented method `LoadDifficultyLevel' which after implementation is able to load any game. It's important to notice that each game may have it's definition of a difficulty level and for that reason this object allows for any time of level needed.\\
 
@@ -182,7 +182,7 @@ It keeps a reference to the `GameHandling' (generic objects `T' and `V') and the
 
 \paragraph{\textit{ScoreManager}} is an abstract component that holds and saves the game scores. It is created once in the `GameHandling' object. It has several operations that allow for the setting and getting of the scores. Because scores can differ between mini-games, the score itself only has the constraint of being an object that implements the C\# Interface \textit{IComparable}, allowing multiple scores to be compared.
 
-Because the `MenuHandling' and `ScoreManager' need to be accessed at any time from any Object, the Singleton pattern was considered \cite{singleton}. This is a design pattern present in object oriented programming languages and ensures that a class has only one instance, while providing a global access point to the instance.
+Because the `MenuHandling' and `ScoreManager' need to be accessed at any time from any Object, the Singleton pattern was considered \cite{singleton}. This is a design pattern present in object oriented programming languages and ensures that a class has only one instance, while providing a global access point to the instance \cite{gamma1994design}.
 
 \paragraph{\textit{ScenesHandling}} is a static data object that stores all the names of each mini-game as constants, removing ambiguity while navigating between scenes from anywhere.
 
