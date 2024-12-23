@@ -66,7 +66,29 @@ Because of this, the folowing wireframes were made, depicted in figures \ref{fig
 
 \section{Methodology, Tools, and Techniques}
 \label{methodology}
-There are many ways to go about building a game, a lot of frameworks, tools, programming languages, etc. The first decision made was to use an existing game engine that already exists. A \textbf{game engine} is a tool that allows the creation of video games without the hassle of building everything from the ground up. This means that any types of assets such as textures, sounds, \gls{ui}, are already available to use and there is no need to create any type of mechanism to place something on the screen for instance, it abstracts most of the technical details making so that the developer is able to use it and create games in much less time. There are a few game engines that are free to use such as Unity \cite{unity}, Unreal Engine \cite{unrealengine}, Godot \cite{godot}, Game Maker \cite{gamemaker}, LibGDX \cite{libgdx}, among others.
+There are many ways to go about building a game, a lot of frameworks, tools, programming languages, etc. The first decision made was to use an existing game engine that already exists. A \textbf{game engine} is a tool that allows the creation of video games without the hassle of building everything from the ground up. This means that any types of assets such as textures, sounds, \gls{ui}, are already available to use and there is no need to create any type of mechanism to place something on the screen for instance, it abstracts most of the technical details making so that the developer is able to use it and create games in much less time. There are a few game engines that are free to use such as Unity \cite{unity}, Unreal Engine \cite{unrealengine}, Godot \cite{godot}, Game Maker \cite{gamemaker}, LibGDX \cite{libgdx}, among others. Table \ref{tab:game_engines_comparison} represents key differences in these engines.
+
+\begin{table}[h!]
+    \centering
+    \caption{Comparison of Popular Game Engines}
+    \label{tab:game_engines_comparison}
+    \resizebox{\textwidth}{!}{
+    \begin{tabular}{|l|l|l|l|l|l|}
+    \hline
+    \textbf{Feature}           & \textbf{Unity}                    & \textbf{Unreal Engine}          & \textbf{Godot}                    & \textbf{Game Maker}              & \textbf{LibGDX}                  \\ \hline
+    \textbf{Previous Experience} & 5+ years                & None             & None                 & None                & None       \\ \hline
+    \textbf{Supported Languages} & C\#, UnityScript (deprecated)    & C++, Blueprints (visual scripting) & GDScript, C\#, VisualScript       & GML (Game Maker Language)        & Java, Kotlin                     \\ \hline
+    \textbf{2D/3D}             & Both                             & Primarily 3D, supports 2D       & Both                              & Primarily 2D, limited 3D         & Both                             \\ \hline
+    \textbf{Platforms Supported} & PC, Mobile, Console, Web, AR/VR & PC, Mobile, Console, AR/VR      & PC, Mobile, Console, Web          & PC, Mobile, Console              & PC, Mobile, Console, Web         \\ \hline
+    \textbf{License Cost}      & Free (Personal), Paid (Pro)      & Free (limited), Paid tiers      & Free (MIT License)                & Paid (one-time or subscription)  & Free (Open Source)               \\ \hline
+    \textbf{Ease of Use}       & High                             & Moderate                        & High                              & High                             & Moderate                         \\ \hline
+    \textbf{Community Support} & Very Large                      & Very Large                      & Growing                           & Moderate                         & Moderate                         \\ \hline
+    \end{tabular}
+    }
+    \end{table}
+    
+
+
 It is important to understand what are the main characteristics of the games and to narrow the options based on that.
 Here we're looking to build 2D mini-games that are not graphically demanding and that can easily be ported to PC, MacOS, Android, or iOS.
 
